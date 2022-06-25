@@ -74,6 +74,34 @@ SSHタブを押してこの画面にいきます。
 
 これでGitHubとGitKrakenの連携が出来て、リポジトリがクローンできるようになりました。
 
+## クローン
+
+GitKrakenの画面の「Clone a repo」を押します。
+
+![Image](gitkraken/clone_repo.png)
+
+分かる場所に空ファイルを作っておいて、Browseで作った空ファイルを選択します。
+
+![Image](gitkraken/dir_brows.png)
+
+GitHubでクローンしたいリポジトリの「code」ボタン>SSHタブに現れるurlをコピーします。
+
+![Image](gitkraken/compass_rep.png)
+
+GitKrakenのURLにペーストすると以下の画面になるので
+
+![Image](gitkraken/clone_repo_coped.png)
+
+「Clone the repo!」ボタンを押します
+
+こんなメッセージが出てきたら「Open now!」を押しましょう。
+
+![Image](gitkraken/open_q.png)
+
+おめでとうございます、リポジトリがクローンできました！
+
+![Image](gitkraken/clone_repo_success.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
