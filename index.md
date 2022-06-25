@@ -1,7 +1,9 @@
 ## GitKrakenのインストール
 
 [公式サイト](https://www.gitkraken.com/)からインストーラをダウンロード
+
 ![Image](install.png)
+
 インストーラを起動して、以下の画面が開いたらとりあえず完了
 
 ![Image](install_finish.png)
