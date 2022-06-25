@@ -44,31 +44,31 @@ Repo Tab選ぶと何か聞かれますが、有料機能を七日間トライア
 
 この状態でリポジトリをクローンしようとすると、「SSHキーがないよ！」と怒られるので、
 
-![Image](toprofile.png)
+![Image](gitkraken/toprofile.png)
 
 ここから
 
 SSHタブを押してこの画面にいきます。
 
-![Image](ssh_generate.png)
+![Image](gitkraken/ssh_generate.png)
 
 四角で囲った部分を押すとsshキーを保存する画面が開くので、分かる場所（ドキュメントとか）に保存します。
 
 「success!」の文字が出たら、
 
-![Image](ssh_copy.png)
+![Image](gitkraken/ssh_copy.png)
 
 の四角に囲われた部分を押してキーをコピーします。
 
 自分のGitHubを開いて、アカウントから「Settings」>「SSH and GPG keys」を開きます。
 
-![Image](github_setting.png)
+![Image](gitkraken/github_setting.png)
 
-![Image](github_setting.png)
+![Image](gitkraken/github_setting.png)
 
 「New SSH key」ボタンを押すと次の画面に行くので、SSHキーの名前を入力して、先ほどコピーしたもの（ssh-rsa ～）を「key」の部分にペーストします。GitKrakenの操作してない限りはいつでもコピペし直せるので安心してください（この記事書く間に何度もコピペし直した人）。
 
-![Image](key_add.png)
+![Image](gitkraken/key_add.png)
 
 ※流石にキーの中身は伏せてます。
 
