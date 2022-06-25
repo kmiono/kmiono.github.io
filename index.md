@@ -64,7 +64,7 @@ SSHタブを押してこの画面にいきます。
 
 ![Image](gitkraken/github_setting.png)
 
-![Image](gitkraken/github_setting.png)
+![Image](gitkraken/github_sshkey.png)
 
 「New SSH key」ボタンを押すと次の画面に行くので、SSHキーの名前を入力して、先ほどコピーしたもの（ssh-rsa ～）を「key」の部分にペーストします。GitKrakenの操作してない限りはいつでもコピペし直せるので安心してください（この記事書く間に何度もコピペし直した人）。
 
