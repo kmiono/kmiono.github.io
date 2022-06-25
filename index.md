@@ -8,11 +8,11 @@
 
 インストーラを起動して、以下の画面が開いたらとりあえず完了
 
-![Image](install_finish.png)
+![Image](gitkraken/install_finish.png)
 
 ## サインイン
 
-![Image](sighup.png)
+![Image](gitkraken/sighup.png)
 
 初期画面で「Sigh up wigh Github」を選択してクリック
 
@@ -22,7 +22,7 @@
 
 「GitKrakenを開く」ボタンでGitKrakenを開き直す。
 
-![Image](sighup_success.png)
+![Image](gitkraken/sighup_success.png)
 
 開き直すと「ユーザーを作って」的な事を言われるが、
 
