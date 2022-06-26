@@ -82,6 +82,8 @@ GitKrakenの画面の「Clone a repo」を押します。
 
 分かる場所に空ファイルを作っておいて、Browseで作った空ファイルを選択します。
 
+※GitKrakenがフォルダ作ってくれるので、デスクトップ選択、Cドライブ選択でも大丈夫です。
+
 ![Image](gitkraken/dir_brows.png)
 
 GitHubでクローンしたいリポジトリの「code」ボタン>SSHタブに現れるurlをコピーします。
