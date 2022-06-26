@@ -50,9 +50,9 @@ Repo Tab選ぶと何か聞かれますが、有料機能を七日間トライア
 
 SSHタブを押してこの画面にいきます。
 
-![Image](gitkraken/ssh_generate.png)
-
 四角で囲った部分を押すとsshキーを保存する画面が開くので、分かる場所（ドキュメントとか）に保存します。
+
+![Image](gitkraken/ssh_generate.png)
 
 「success!」の文字が出たら、
 
