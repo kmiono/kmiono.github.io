@@ -1,3 +1,13 @@
+# 目次
+ 
+  - [GitKrakenのインストール](#GitKrakenのインストール)
+  - [サインイン](#サインイン)
+  - [初期設定](#初期設定)
+  - [クローン](#クローン)
+  - [アカウント削除](#アカウント削除)
+
+
+
 ## GitKrakenのインストール
 
 ※GitHubのアカウントは既に取得している前提で進めます
@@ -14,8 +24,7 @@
 
 ![Image](gitkraken/sighup.png)
 
-初期画面で「Sigh up wigh Github」を選択してクリック
-
+初期画面で「Sigh up wigh Github」を選択してクリック  
 ログインを求められるので、ユーザーネームとパスワードを入力
 
 この画面に行ったら成功
@@ -26,11 +35,9 @@
 
 開き直すと「ユーザーを作って」的な事を言われるが、
 
-profile Name:GitHubのユーザー名
-
-Author Name:GitHubのユーザー名
-
-Author Email:GitHubに登録したアドレス
+* profile Name:GitHubのユーザー名  
+* Author Name:GitHubのユーザー名  
+* Author Email:GitHubに登録したアドレス
 
 で問題ないと思います
 
@@ -54,10 +61,8 @@ Repo Tab選ぶと何か聞かれますが、有料機能を七日間トライア
 
 ![Image](gitkraken/toprofile.png)
 
-ここから
-
-SSHタブを押してこの画面にいきます。
-
+ここから  
+SSHタブを押してこの画面にいきます。  
 四角で囲った部分を押すとsshキーを保存する画面が開くので、分かる場所（ドキュメントとか）に保存します。
 
 ![Image](gitkraken/ssh_generate.png)
@@ -111,3 +116,29 @@ GitKrakenのURLにペーストすると以下の画面になるので
 おめでとうございます、リポジトリがクローンできました！
 
 ![Image](gitkraken/clone_repo_success.png)
+
+## アカウント削除
+
+**※以降手順はアカウントを削除したい場合のみ**
+
+GitKrakenの画面右下に「free」/「Pro」が表示されているかと思われるので、そこをクリック
+
+![Image](gitkraken/account.png)
+
+アカウントマネージャーが開きます。
+
+![Image](gitkraken/account_management.png) 
+
+~~いじくってチーム（企業？）を追加した痕跡が……~~
+
+アカウントマネージャーの中のACCOUNT INFO＞Delete My Accountをクリック  
+そうすると以下のようなウィンドウが開きます。
+
+![Image](gitkraken/delete_dialog.png) 
+
+表示に則って「Delete My Account」を入力（Bot防止なのでコピペできません。真似して手打ちしましょう）  
+入力して「Delete your account」ボタンをクリックするとイカが泣いてる画像が暫く表示されます。待ちましょう。
+
+以下の画面に戻れば完了
+
+![Image](gitkraken/first_view.png) 
