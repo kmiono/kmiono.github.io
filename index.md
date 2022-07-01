@@ -129,7 +129,7 @@ GitKrakenの画面右下に「free」/「Pro」が表示されているかと思
 
 ![Image](gitkraken/account_management.png) 
 
-~~いじくってチーム（企業？）を追加した痕跡が……~~
+~~いじくってORGANIZATIONを追加した痕跡が……~~
 
 アカウントマネージャーの中のACCOUNT INFO＞Delete My Accountをクリック  
 そうすると以下のようなウィンドウが開きます。
@@ -142,3 +142,5 @@ GitKrakenの画面右下に「free」/「Pro」が表示されているかと思
 以下の画面に戻れば完了
 
 ![Image](gitkraken/first_view.png) 
+
+おつかれさまでした。
