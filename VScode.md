@@ -32,9 +32,10 @@ git config --global user.email 'username@example.com'
 
 GitLensは変更差分の表示、Git Graphはツリー表示をしてくれます。
 
-### GitHub Desktop（お好み）
+### GitHub Desktopのインストール（お好み）
 
-リポジトリをクローンするのに使う。（※GitHub Desktopがなくても出来るのでお好みで）
+リポジトリをクローンするのに使います。  
+（※GitHub Desktopがなくてもクローン出来るので、インストールはお好み）
 
 ### 参考文献
 [君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)  
