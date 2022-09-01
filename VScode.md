@@ -15,9 +15,10 @@
 [公式サイト](https://git-scm.com/)からGitをダウンロードします。  
 （SourceTreeを入れている方はSourceTree入れるときに入っているので問題ないです）
 
-Git Bashを起動し、以下のコマンドを入力
 
 ![image](2022-09-01_13h48_21.png)
+
+Git Bashを起動し、以下のコマンドを入力
 
 ```
 git config --global user.name 'username'
