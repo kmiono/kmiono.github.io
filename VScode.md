@@ -1,7 +1,5 @@
 # VScodeをGitクライアントにするまでの道
 
-# 目次
-
 ## 必要なもの
 
 - Gitのインストール
@@ -39,5 +37,5 @@ GitLensは変更差分の表示、Git Graphはツリー表示をしてくれま�
 リポジトリをクローンするのに使う。（※GitHub Desktopがなくても出来るのでお好みで）
 
 ### 参考文献
-[君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)
+[君には1時間でGitについて知ってもらう(with VSCode)](https://qiita.com/jesus_isao/items/63557eba36819faa4ad9)  
 [VSCodeでのGitの基本操作まとめ](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
