@@ -1,5 +1,5 @@
 無料でGitクライアントを使いたい方はこちら  
-[VScodeをGitクライアントにするまでの道](Vscode.md)
+[VScodeをGitクライアントにするまでの道](VScode.md)
 
 # 目次
  
