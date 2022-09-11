@@ -30,8 +30,10 @@ git config --global user.email 'username@example.com'
 
 - GitLens
 - Git Graph
+- Commit Message Editor(お好み)
 
-GitLensは変更差分の表示、Git Graphはツリー表示をしてくれます。
+GitLensは変更差分の表示、Git Graphはツリー表示をしてくれます。  
+Commit Message Editorはコミットメッセージを書きやすくする拡張機能なのでお好みです。
 
 ### GitHub Desktopのインストール（お好み）
 
