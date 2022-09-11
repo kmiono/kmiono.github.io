@@ -26,6 +26,10 @@ git config --global user.email 'username@example.com'
 ```
 ※ユーザー名とメールアドレスはGitHubに登録したものを入力します
 
+SSH接続方法なんかはこちらが参考になるかと
+
+[【初心者向け】GitHubにSSH接続する設定方法 for Windows 10](https://yu-report.com/entry/githubSSH/)
+
 ### VScodeに入れる拡張機能
 
 - GitLens
