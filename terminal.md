@@ -2,9 +2,9 @@
 
 ## 環境
 
-OS：Windows 11 Home 22H2
-linux：Ubuntu 20.04.5 LTS
-ターミナル：Tabby Terminal（Windows Terminalが使いづらいため代替）
+OS：Windows 11 Home 22H2  
+linux：Ubuntu 20.04.5 LTS  
+ターミナル：Tabby Terminal（Windows Terminalが使いづらいため代替）  
 
 ## やったこと
 
