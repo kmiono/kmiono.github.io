@@ -62,8 +62,8 @@ bashに戻したところ`brew`コマンドが使用できたので、
 
 コマンドについては下記より
 
-[もっと使いやすいコマンドラインツール10選](https://zenn.dev/the_exile/articles/5176b7a5c29bce#4.-fd%EF%BC%88find%EF%BC%89)
-[fzfを活用してTerminalの作業効率を高める](https://qiita.com/kamykn/items/aa9920f07487559c0c7e)
+[もっと使いやすいコマンドラインツール10選](https://zenn.dev/the_exile/articles/5176b7a5c29bce#4.-fd%EF%BC%88find%EF%BC%89)  
+[fzfを活用してTerminalの作業効率を高める](https://qiita.com/kamykn/items/aa9920f07487559c0c7e)  
 [fzfとghqを組み合わせてプログラミングの心理的・作業的負荷を軽減する](https://zenn.dev/isana/articles/20210628fzfghq)
 
 ### starshipの設定
