@@ -77,6 +77,10 @@ starship config
 ```
 を入力して設定を表示、編集
 
+※:wqコマンドで設定ファイルを保存できない(readonly)設定の時は下記参照
+
+[WSL2でStarshipを使っておしゃれなターミナルを作成する](https://qiita.com/Sicut_study/items/6aa87a758132ca006d5)
+
 現状の設定
 ```
 add_newline = true
