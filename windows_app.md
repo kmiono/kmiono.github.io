@@ -52,8 +52,8 @@ Windowsはこいつがないとファイル検索が始まらない。
 [Revo Uninstaller のインストールと使い方](https://eizone.info/revo-uninstaller/)
 
 #### Git
-入ってなかったので。  
-コマンドでGit操作するときに必要  
+入ってないことに気づいたので。  
+コマンドでGit操作するときに必要。  
 
 #### GitHub Desktop
 GitHub公式のクライアント。多少英語が読めればGitHubのサイトに行かなくてもリポジトリが作れたりクローンできる。  
