@@ -107,4 +107,11 @@ Windows Terminalもタブ機能があってWSLに接続できますが、デフ�
 4. Flutter Widget Snippets - Flutterの補完
 
 ##### Vue
-1. Vue Language Features (Volar) - Vue拡張詰め合わせ（JS）
+1. Vue Language Features (Volar) - Vue拡張詰め合わせ（JS対応）
+
+### 入れたSDKとか
+
+- Node.js
+- FlutterSDK
+
+とりあえずnpmさえ動いてくれれば後から必要なものを`npm install`できる
