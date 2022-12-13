@@ -4,12 +4,10 @@
 
 ## 環境
 
-||||
-|---|---|
-|Windowsエディション|Windows 11 Home|
-|バージョン|22H2|
-|プロセッサ|12th Gen Intel(R) Core(TM) i5-12400   2.50 GHz|
-|RAM|16.0 GB|
+- Windowsエディション Windows 11 Home
+- バージョン 22H2
+- プロセッサ 12th Gen Intel(R) Core(TM) i5-12400   2.50 GHz
+- RAM 16.0 GB
 
 ### 入れたツール
 
