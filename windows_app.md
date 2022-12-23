@@ -19,7 +19,7 @@
 6. Git
 7. GitHub Desktop
 8. Vivaldi
-9.  OpenOffice
+9.  LibreOffice
 10. Thunderbird
 11. Tabby Terminal
 12. VScode
@@ -67,7 +67,7 @@ GitHub公式のクライアント。多少英語が読めればGitHubのサイ�
 セッション保存機能が神。  
 (Windowsデフォルトの)Edgeも実はそんなに悪くない。慣れれば。  
 
-#### OpenOffice
+#### LibreOffice
 Office代替。  
 
 #### Thunderbird
