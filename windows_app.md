@@ -96,7 +96,7 @@ Windows Terminalもタブ機能があってWSLに接続できますが、デフ�
 1. GitLens - 差分表示
 2. Git Graph - コミットグラフ表示
 3. Commit Message Editor - コミットメッセージエディター
-4. Gitmoji - コミットメッセージに絵文字を追加できる
+4. Gitmoji - コミットメッセージに絵文字を追加できる  
 ctrl+alt+p→`gitmoji`入力→絵文字選択
    
 ##### マークダウン
