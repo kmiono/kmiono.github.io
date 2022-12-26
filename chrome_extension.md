@@ -1,7 +1,8 @@
 # Chrome(Chromium)ブラウザで使用中拡張機能
 
 Chrome拡張機能はChromiumブラウザで使用できる。Edgeとか  
-現在ブラウザはVivaldi（Chromium）を使用中
+現在ブラウザはVivaldi（Chromium）を使用中  
+メジャーな拡張機能はfirefoxでも提供されている可能性が高い、が調べた方がいい
 
 ## セキュリティ・アドブロック系
 #### uBlacklist  
