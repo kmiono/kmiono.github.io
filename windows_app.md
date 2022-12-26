@@ -81,6 +81,9 @@ Windows Terminalもタブ機能があってWSLに接続できますが、デフ�
 
 こいつがいないとお話にならない。  
 
+入れた拡張は以下にて  
+[VSCode 拡張まとめ](vscode_extension.md)
+
 ### 入れたSDKとか
 
 - Node.js
