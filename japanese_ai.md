@@ -23,7 +23,7 @@
 平たく言えばものすごく教師がいい。chatGPTの場合日本法人か現地の日本人チームかがいるんだろうなって。
 
 ちなみに「「自然な話し方」を教わって」というのは教師付き機械学習という方法になります。
-こちらですが、キャラるというアプリでそれっぽいことが体験できます。
+こちらですが、キャラるというアプリでそれっぽいことが体験できます。  
 https://www.chararu.jp
 
 公式サイトにはApp Storeへのリンクしかないですが、Google play storeからでも入手できます。
@@ -35,8 +35,7 @@ https://www.chararu.jp
 
 日本語はアメリカ国務省に認められるレベルで学習難度が高いです。
 
-世界一の超難易度に認定？！外国人にとって日本語が難しい理由とは？
-https://alote.inmybook.jp/in-house-training/japanese-difficult/#Language_Difficulty_Rankings
+[世界一の超難易度に認定？！外国人にとって日本語が難しい理由とは？](https://alote.inmybook.jp/in-house-training/japanese-difficult/#Language_Difficulty_Rankings)
 
 外国人が日本語学習する難しさ、は今回本題じゃないのでいつか機会があったらまたつらつら書いて見たいです。
 
@@ -51,8 +50,8 @@ https://alote.inmybook.jp/in-house-training/japanese-difficult/#Language_Difficu
 たとえば「天気はどう？」という一言を取っても、どこの天気を聞いているのか機械には判断着きかねるわけです。
 （「天気は？」に関しては特殊フレーズとして東京の天気を返す、とか返答固定されてそうな気もしますが）
 
-コンテクストとは？意味やビジネスシーンでの使い方を解説
-https://www.profuture.co.jp/mk/recruit/management/31173#%E3%83%8F%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88
+[コンテクストとは？意味やビジネスシーンでの使い方を解説]
+(https://www.profuture.co.jp/mk/recruit/management/31173#%E3%83%8F%E3%82%A4%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88%E3%81%A8%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88)
 
 ### 日本語の熟語
 
@@ -91,8 +90,8 @@ https://www.profuture.co.jp/mk/recruit/management/31173#%E3%83%8F%E3%82%A4%E3%82
 
 ### 文法のない言語
 
-英語と日本語の違い｜知っておけば学習効率UP間違いなし！
-https://eikaiwa.dmm.com/blog/learning-english/tips/difference-english-japanese/
+[英語と日本語の違い｜知っておけば学習効率UP間違いなし！]
+(https://eikaiwa.dmm.com/blog/learning-english/tips/difference-english-japanese/)
 
 ↑の記事の図がわかりやすいですが、日本語は「S（主語）、O（目的語）、V（述語）」型の文法をしています。
 が、文法なんて割とどうでもいいのが日本語です。最悪単語で会話ができてしまいます。
@@ -122,14 +121,14 @@ B「Aさんを手伝うとは言ってません」
 
 というトリックが発生しうるわけですね。確認大事。
 
-ChatGPTは思ったほど賢くない
-https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524
+[ChatGPTは思ったほど賢くない]
+(https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524)
 
 ChatGPTもこの辺は賢くない（というか機械にこれを理解させろというのが難しい話）らしく、
 ひねくれた問題には回答できないみたいです。
 
-チャットAI、意地悪クイズに引っかかって間違うと不貞腐れてしまうww
-https://www.youtube.com/watch?v=9rI6-2fRtc0
+[チャットAI、意地悪クイズに引っかかって間違うと不貞腐れてしまうww]
+(https://www.youtube.com/watch?v=9rI6-2fRtc0)
 
 ### 書き言葉と話し言葉
 
