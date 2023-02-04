@@ -6,3 +6,4 @@
   - [Windows環境設定メモ](windows_app.md)
   - [VSCode 拡張まとめ](vscode_extension.md)
   - [Chrome(Chromium)ブラウザで使用中拡張機能](chrome_extension.md)
+  - [AIと日本語](japanese_ai.md)
