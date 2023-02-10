@@ -22,3 +22,9 @@ KAKU P-MODEL - Big Brother
 
 Big Bronzor【ポケモンの鳴き声でBig Brother】
 <iframe width="560" height="315" src="https://youtu.be/h94ygixI5C8" frameborder="0" allowfullscreen></iframe>
+
+それはそうとAIが人から仕事を奪う事例でドン引きしたのが見つかったので載せておきます。
+
+[声優に「録音した音声でAIに合成音声を生成させることを認める」契約を迫るケースが増加、声優や組合からは反対の声 - GIGAZINE](https://gigazine.net/news/20230208-voice-actor-vs-ai/)
+
+アメリカのニュースのようですが、人間が人間の仕事を奪っているさまが一番醜いですね……そんなこと言ったって日本も「人力」なんてジャンルがあるんで他人事ではないのですが。
