@@ -7,3 +7,4 @@
   - [VSCode 拡張まとめ](vscode_extension.md)
   - [Chrome(Chromium)ブラウザで使用中拡張機能](chrome_extension.md)
   - [AIと日本語](japanese_ai.md)
+  - [日本語と発音](japanese_tone.md)
