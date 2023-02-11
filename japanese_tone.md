@@ -1,6 +1,7 @@
 # 日本語と発音
 
 ※今回内容の都合により動画が多いです
+※動画の埋め込みができないみたいなので、動画リンクには★マークをつけています
 
 ## 日本語のアクセント
 
@@ -31,8 +32,7 @@
 
 以下の動画が参考になるのかなと思います。
 
-"Japanese is flat" /「日本語はフラットです」
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G0ULPlBeKzg" frameborder="0" allowfullscreen></iframe>
+[★"Japanese is flat" /「日本語はフラットです」](https://www.youtube.com/watch?v=G0ULPlBeKzg)
 
 この高低を再現できるかどうかで、ただの機械音声か自然な機械音声かが変わってくるのかなと
 （ちなみに気にしながら話してみると分かりますが、この高低アクセント文脈でも変わります。なんて面倒な言語）
@@ -41,12 +41,10 @@
 ポケモンの鳴き声を使った音MADなので機械音＆音量にご注意ください。具体的に言うとド初っぱなにレックウザが鳴きわめきます。そらのはしらを走破で出来なかった私は初見びびり倒しました。
 
 原曲
-KAKU P-MODEL - Big Brother
-<iframe width="560" height="315" src="https://youtu.be/hOrTU2NNDVQ" frameborder="0" allowfullscreen></iframe>
+[★KAKU P-MODEL - Big Brother](https://youtu.be/hOrTU2NNDVQ)
 
 音MAD
-Big Bronzor【ポケモンの鳴き声でBig Brother】
-<iframe width="560" height="315" src="https://youtu.be/h94ygixI5C8" frameborder="0" allowfullscreen></iframe>
+[★Big Bronzor【ポケモンの鳴き声でBig Brother】](https://youtu.be/h94ygixI5C8)
 
 ## 機械と歌
 
@@ -56,15 +54,12 @@ Big Bronzor【ポケモンの鳴き声でBig Brother】
 
 人を使う側の人間が「権利を守ろう」ではなく「上手いように使ってしまおう」ってなっているのが途方もなく人の業を感じさせます。表題にある「録音した音声で」「合成音声を生成」という辺りは日本にも人力というジャンルがあるので余所のこと言えないのですが。
 
-【切り貼り人力VOCALOID】作り方＆調声晒し【解説】
-<iframe width="560" height="315" src="https://youtu.be/GoOFadLTGDU" frameborder="0" allowfullscreen></iframe>
+[★【切り貼り人力VOCALOID】作り方＆調声晒し【解説】](https://youtu.be/GoOFadLTGDU)
 
 ちなみに、動画にあるように人力（人力VOCALOID）って音階に音を乗せていく技術らしいので、普通の会話文を流ちょうに扱えるかは不明です。
 
 人力とは違いますが、極めるとここまで人間に近づけるという一例
-【波音リツ】-ERROR 2018バージョン【UTAUカバー】
-<iframe width="560" height="315" src="https://youtu.be/dBymYOAvgdA" frameborder="0" allowfullscreen></iframe>
+[★【波音リツ】-ERROR 2018バージョン【UTAUカバー】](https://youtu.be/dBymYOAvgdA)
 
 その気になれば演歌だって歌わせることができます
 [VOCALOID4 Library Sachiko | 製品詳細・購入](https://www.vocaloid.com/products/show/v4l_sachiko)
-
