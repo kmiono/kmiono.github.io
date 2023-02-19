@@ -18,7 +18,7 @@
 
 [公式サイト](https://www.gitkraken.com/)からインストーラをダウンロード
 
-![Image](install.png)
+![Image](img/install.png)
 
 インストーラを起動して、以下の画面が開いたらとりあえず完了
 
