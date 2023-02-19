@@ -9,3 +9,4 @@
   - [AIと日本語](japanese_ai.md)
   - [日本語と発音](japanese_tone.md)
   - [Qiitaの歩き方](howto_qiita.md)
+  - [日報ご参考](nippo.md)
