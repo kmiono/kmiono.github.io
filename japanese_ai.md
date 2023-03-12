@@ -119,7 +119,8 @@ B「Aさんを手伝うとは言ってません」
 
 というトリックが発生しうるわけですね。確認大事。
 
-[ChatGPTは思ったほど賢くない](https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524)
+[ChatGPTは思ったほど賢くない](https://www.slideshare.net/ShoyaMatsumori/chatgpt-255570524)  
+[「有能なバカ」ChatGPTを使って1週間でiOSアプリを公開する方法](https://zenn.dev/niwatoro/articles/51f22ab69e0c9b)
 
 ChatGPTもこの辺は賢くない（というか機械にこれを理解させろというのが難しい話）らしく、  
 ひねくれた問題には回答できないみたいです。  
