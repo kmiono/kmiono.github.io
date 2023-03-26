@@ -132,6 +132,7 @@ class HomeruPage extends StatelessWidget {
 
 まだ画面遷移できませんし、画像も表示されません。
 
+`main.dart`
 ```
 import 'dart:math';
 
@@ -186,7 +187,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 表示したい画像を image フォルダに追加し（フォルダがなかったら作成）、
 pubspec.yaml の末尾に以下を追加します。
-`homeru_page.dart`を
+
 
 ```
   assets:
@@ -194,8 +195,13 @@ pubspec.yaml の末尾に以下を追加します。
     //この画像はネットで適当に拾ってきたやつです
 ```
 
+`homeru_page.dart`を
+```
+
 `images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg`を以下のように修正します。
 
+```
+`homeru_page.dart`
 ```
 import 'package:flutter/material.dart';
 
