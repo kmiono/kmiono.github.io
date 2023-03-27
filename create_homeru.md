@@ -138,8 +138,7 @@ class HomeruPage extends StatelessWidget {
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-//追加
-import 'homeru_page.dart';
+import 'homeru_page.dart';//追加
 
 //ここより上変更なしのため記載なし
 
@@ -187,17 +186,14 @@ class _MyHomePageState extends State<MyHomePage> {
 ### 画像の表示
 
 表示したい画像を image フォルダに追加し（フォルダがなかったら作成）、
-pubspec.yaml の末尾に以下を追加します。
+`pubspec.yaml` の末尾に以下を追加します。
 
 ```
   assets:
-    - images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg
-    //この画像はネットで適当に拾ってきたやつです
+    - images/表示したい画像.jpg
 ```
 
-`homeru_page.dart`の`images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg`を以下のように修正します。  
-
-`homeru_page.dart`
+`homeru_page.dart`を以下のように修正します。  
 
 ```
 import 'package:flutter/material.dart';
@@ -213,7 +209,7 @@ class HomeruPage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg'),//表示したい画像の名前を入れる
+            Image.asset('images/表示したい画像.jpg'),
             OutlinedButton(
               child: const Text(
                 '戻る',
@@ -250,7 +246,7 @@ Container(
 
                 // Uploading the Image from Assets
                 child: Image.asset(
-                  'images/pexels.jpg',//表示したい画像
+                  'images/表示したい画像.jpg',
 
                   // Resizing the Image to the Frame Size
                   fit: BoxFit.cover,
@@ -285,7 +281,7 @@ import 'homeru_page.dart';
       _counter++;
     });
   }
-
+  //追加ここまで
 
   @override
   Widget build(BuildContext context) {
