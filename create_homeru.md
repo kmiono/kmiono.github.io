@@ -195,13 +195,7 @@ pubspec.yaml の末尾に以下を追加します。
     //この画像はネットで適当に拾ってきたやつです
 ```
 
-`homeru_page.dart`を
-
-```
-
-`images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg`を以下のように修正します。
-
-```
+`homeru_page.dart`の`images/1000_F_481094487_KgEvOuZZmm1PLbPPSzGf7MEJrNtPFpgN.jpg`を以下のように修正します。  
 
 `homeru_page.dart`
 
