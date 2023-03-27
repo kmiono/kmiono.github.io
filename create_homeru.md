@@ -492,5 +492,21 @@ class HomeruPage extends StatelessWidget {
 
 AppBar に戻るボタンが表示されるようになったので画面がすっきりしました。
 
-ここまでやってさあスマホでテストしてみるぞ！　って思ったらなんか構成が足りないみたいです。
-経験不足……。
+~~ここまでやってさあスマホでテストしてみるぞ！　って思ったらなんか構成が足りないみたいです。~~
+~~経験不足……。~~
+
+[Flutter アプリを Android エミュレーターおよび実機で実行してみた](https://dev.classmethod.jp/articles/android-flutter-apk/)
+
+[Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java)
+
+上記を参考にしたところ、Java のバージョンと Android Studio 内部の Gradle バージョンのずれが原因だったようです。
+
+Java 公式での開発は止まっていて、OpenJDK での開発に移行していたのを失念していたのが原因の一つでした。
+
+この問題を解決したところ、無事に Android 実機でアプリを動かすことが出来ました。Android Studio 経由で実機テストしたアプリはインストールしたアプリと大体同等の扱いを出来るので（多分本当は違う）、自分個人で楽しむ分にはこれでいいかなという感じ。
+
+### 未完了タスク
+
+- 褒めるページの画像ランダム表示
+- 画像制作（工数～）
+- 記事用のスクショ
