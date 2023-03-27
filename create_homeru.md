@@ -2,13 +2,13 @@
 
 ## TD;TR
 
-運動したら褒めてくれるアプリを作ろうと思いました。
-ページ遷移 → 褒めてくれる → その回数を保存いう簡単な設計
-スマホに入れて運動習慣付けるぞい！　という計画……だった。
+運動したら褒めてくれるアプリを作ろうと思いました。  
+ページ遷移 → 褒めてくれる → その回数を保存いう簡単な設計  
+スマホに入れて運動習慣付けるぞい！　という計画……だった。  
 
 ### Flutter を入れる
 
-[公式サイト](https://docs.flutter.dev/get-started/install)を見てください。  
+[公式サイト](https://docs.flutter.dev/get-started/install)を見てください。    
 要約すると「FlutterSDK を入れて環境変数通してね」なので（わかりづらいですが）簡単なはず。
 
 ### VSCode に拡張機能を入れる
@@ -36,8 +36,8 @@ Prettier もあるといいと思うんですが、Flutter の整形は Prettier
 
 ### MAIN.DART
 
-`lib`配下の`main.dart`を以下のように編集します。
-基本的に Flutter は`lib`配下のファイルを編集します。
+`lib`配下の`main.dart`を以下のように編集します。  
+基本的に Flutter は`lib`配下のファイルを編集します。  
 
 `main.dart`
 
@@ -83,14 +83,14 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ```
 
-とりあえずボタン作ってページ遷移する所だけ作りました。  
-遷移先がないので`HomeruPage()`にエラーが出ますが問題ないです。
+とりあえずボタン作ってページ遷移する所だけ作りました。   
+遷移先がないので`HomeruPage()`にエラーが出ますが問題ないです。  
 
 ### HomeruPage を作る
 
-あまりに安直ネームですが、わかりやすい方がいいんです（多分）
+あまりに安直ネームですが、わかりやすい方がいいんです（多分）  
 
-`lib`配下に新規に`homeru_page.dart`を作成します。
+`lib`配下に新規に`homeru_page.dart`を作成します。  
 
 `homeru_page.dart`
 
@@ -130,7 +130,7 @@ class HomeruPage extends StatelessWidget {
 
 ```
 
-まだ画面遷移できませんし、画像も表示されません。
+まだ画面遷移できませんし、画像も表示されません。  
 
 `main.dart`
 
@@ -337,8 +337,8 @@ import 'homeru_page.dart';
 
 ```
 
-褒めるボタンを押すたびにカウントがされるようになりました。
-でも画面を消すとカウントがリセットされるので、保存機能を付けたいと思います。
+褒めるボタンを押すたびにカウントがされるようになりました。  
+でも画面を消すとカウントがリセットされるので、保存機能を付けたいと思います。  
 
 ### 保存機能の追加
 
@@ -448,14 +448,14 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ```
 
-画面を閉じてもカウンターの値が保存されるようになりました。
+画面を閉じてもカウンターの値が保存されるようになりました。  
 
 参考：[ブラウザで Flutter! - 保存してみよう！](https://note.com/dngri/n/na4c9e7e7b0e6)
 
 ### デザイン修正
 
-戻るボタンがいけてないので修正しようと思います。
-ライブ感で作ってるからこういうことが起きる……。
+戻るボタンがいけてないので修正しようと思います。  
+ライブ感で作ってるからこういうことが起きる……。  
 
 調べたところ実装してたボタン削除するだけでいいみたいです。便利。
 
@@ -503,18 +503,18 @@ AppBar に戻るボタンが表示されるようになったので画面がす�
 
 ### 実機テスト
 
-~~ここまでやってさあスマホでテストしてみるぞ！　って思ったらなんか構成が足りないみたいです。~~
-~~経験不足……。~~
+~~ここまでやってさあスマホでテストしてみるぞ！　って思ったらなんか構成が足りないみたいです。~~  
+~~経験不足……。~~  
 
-[Flutter アプリを Android エミュレーターおよび実機で実行してみた](https://dev.classmethod.jp/articles/android-flutter-apk/)
+[Flutter アプリを Android エミュレーターおよび実機で実行してみた](https://dev.classmethod.jp/articles/android-flutter-apk/)  
 
-[Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java)
+[Compatibility Matrix](https://docs.gradle.org/current/userguide/compatibility.html#java)  
 
-上記を参考にしたところ、Java のバージョンと Android Studio 内部の Gradle バージョンのずれが原因だったようです。
+上記を参考にしたところ、Java のバージョンと Android Studio 内部の Gradle バージョンのずれが原因だったようです。  
 
-Java 公式での開発は止まっていて、OpenJDK での開発に移行していたのを失念していたのが原因の一つでした。
+Java 公式での開発は止まっていて、OpenJDK での開発に移行していたのを失念していたのが原因の一つでした。  
 
-この問題を解決したところ、無事に Android 実機でアプリを動かすことが出来ました。Android Studio 経由で実機テストしたアプリはインストールしたアプリと大体同等の扱いを出来るので（多分本当は違う）、自分個人で楽しむ分にはこれでいいかなという感じ。
+この問題を解決したところ、無事に Android 実機でアプリを動かすことが出来ました。Android Studio 経由で実機テストしたアプリはインストールしたアプリと大体同等の扱いを出来るので（多分本当は違う）、自分個人で楽しむ分にはこれでいいかなという感じ。  
 
 ### 未完了タスク
 
