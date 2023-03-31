@@ -6,6 +6,12 @@
 ページ遷移 → 褒めてくれる → その回数を保存いう簡単な設計  
 スマホに入れて運動習慣付けるぞい！　という計画……だった。  
 
+コードを見たい人向け  
+[
+kmiono
+/
+yorokobitracker](https://github.com/kmiono/yorokobitracker)
+
 ### Flutter を入れる
 
 [公式サイト](https://docs.flutter.dev/get-started/install)を見てください。    
