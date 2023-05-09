@@ -2,5 +2,4 @@
 
 ## Qiita
 
-[もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)  
-業務上の不都合なあるあるがまとめられている。「嫌な現場」を知っておくことができる。
+[もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
