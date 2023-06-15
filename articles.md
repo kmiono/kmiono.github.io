@@ -28,6 +28,11 @@
 
 - [Astro で Markdown 対応ブログを作ろう【60 分】](https://youtu.be/tgW_GnfMr8o)
 - [Next.js と一緒に学ぶ React 講座](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
+- [【Z 世代がたった数年で会社を見切る理由】「いても無駄」と「言っても無駄」／キャリア安全性の欠如／生存者バイアスの横行／悪しきマネジメントの継承／コンサルが人気の理由【Momentor 代表 坂井風太】](https://youtu.be/dhe3BeGR-Vo)
+
+## アウトプット
+
+- [アウトプットをしない人々は否定しかできないって話。](https://qiita.com/haihaikazuma/items/16089abf3a75e754b9b4)
 
 ## リンク集
 
