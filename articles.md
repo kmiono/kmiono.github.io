@@ -12,6 +12,10 @@
 - [Slack はただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6)
 - [プログラミング用フォントの選び方とおすすめ無料フォント](https://pouhon.net/font-programming/4990/)
 
+## プログラミング学習
+
+- [エルデンリングから学んだ、プログラミング学習に必要な７つのこと](https://qiita.com/karamage/items/d0b323ac0143a9f51ebb)
+
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
