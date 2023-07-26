@@ -17,6 +17,13 @@
 - [エルデンリングから学んだ、プログラミング学習に必要な７つのこと](https://qiita.com/karamage/items/d0b323ac0143a9f51ebb)
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
 
+### TypeScript
+
+- [【TypeScript】学習・開発で必ず確認するべきリポジトリ・サイト・書籍 33](https://zenn.dev/nameless_sn/articles/awesome_typescript_info)
+- [【TypeScript】vscode でコンパイルする流れ](https://zenn.dev/kiriyama/articles/a01a56c53876f2)
+- [サバイバル TypeScript](https://typescriptbook.jp)
+- [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
+
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
@@ -34,6 +41,7 @@
 - [Astro で Markdown 対応ブログを作ろう【60 分】](https://youtu.be/tgW_GnfMr8o)
 - [Next.js と一緒に学ぶ React 講座](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
 - [【Z 世代がたった数年で会社を見切る理由】「いても無駄」と「言っても無駄」／キャリア安全性の欠如／生存者バイアスの横行／悪しきマネジメントの継承／コンサルが人気の理由【Momentor 代表 坂井風太】](https://youtu.be/dhe3BeGR-Vo)
+- [日本一わかりやすい TypeScript 入門【基礎編】](https://www.youtube.com/playlist?list=PLX8Rsrpnn3IW0REXnTWQp79mxCvHkIrad)
 
 ## アウトプット
 
