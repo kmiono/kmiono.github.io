@@ -11,6 +11,7 @@
 - [エンジニアのための十徳ナイフ「DevToys」が便利すぎる](https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab)
 - [Slack はただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6)
 - [プログラミング用フォントの選び方とおすすめ無料フォント](https://pouhon.net/font-programming/4990/)
+- [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
 
 ## プログラミング学習
 
@@ -55,3 +56,4 @@
 ## その他
 
 - [エンジニアのための刑事事件対策まとめ](https://qiita.com/moroi/items/e9db57db2bcdbc089ca1)
+- [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
