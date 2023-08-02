@@ -301,6 +301,27 @@ fish_logo という魚を表示するプラグインを利用して起動時に�
 plugin ファイルは~/.config/nvim/lua/plugins 以下にある。
 クリップボードへコピーが出来るので良い（vim はその辺の処理がまた特殊なので設定をいじくる必要あり）。
 
-#### その他
+#### Git 連携
 
-GitHub への疎通は現在（2023 年 8 月 1 日）試行錯誤中。SSH キー登録だけで行けるはずだが疎通しない。生成した秘密鍵が疎通してない？　よくわからない。
+以下の記事を参考  
+[GitHub に ssh 接続できるようにする](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)  
+ただし fish shell にしているため
+
+```
+eval "$(ssh-agent -s)"
+```
+
+コマンドは動かない
+
+```
+eval (ssh-agent -c)
+```
+
+を使う
+
+それでも`git push`が出来なかったため（commit はできた）
+
+[GitHub 個人用アクセス トークン (PAT) 更新後の fatal: Authentication failed for エラー解消](https://zenn.dev/nasubita/articles/00f9ccb988e0a4)  
+を参考に認証させる。
+
+ちなみに Git Bash は SSH 接続するだけ（秘密鍵作るだけ）で接続できるっぽい
