@@ -294,6 +294,12 @@ fish_logo という魚を表示するプラグインを利用して起動時に�
 
 上記[bash への切り替え](#bashへの切り替え)にて戻せる。
 
+### oh-my-fish の設定
+
+oh-my-fish：fish のカラーテーマ  
+今回は bobthefith を採用  
+ちなみに powershell 用の oh-my-posh とか bash 用の oh-my-bash とか色々いる
+
 ### AstroNvim の追加
 
 主に[VSCode が物足りない人へ AstroNvim の紹介](https://zenn.dev/chot/articles/72bc7dfbec3b33)を参照
