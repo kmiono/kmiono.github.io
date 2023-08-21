@@ -32,6 +32,7 @@
 ## 機械学習
 
 - [平成の次の元号を、AI だけで決めさせる物語](https://qiita.com/youwht/items/0b204c3575c94fc786b8)
+- [ChatGPT を最強の学習ツールにする方法](https://qiita.com/tak001/items/7605f0be7b424118e5a5)
 
 ## 個人開発
 
