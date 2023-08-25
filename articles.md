@@ -4,6 +4,8 @@
 
 - [もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
 - [【外資系うさぎの雑感】その５．あの"パワハラ会議”の議事録を書いてみた](https://note.com/choconejito/n/n74d5da74fba7)
+- [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
+- [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
 
 ## ツール
 
