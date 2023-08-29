@@ -46,6 +46,7 @@
 - [Next.js と一緒に学ぶ React 講座](https://www.youtube.com/playlist?list=PLwM1-TnN_NN6fUhOoZyU4iZiwhLyISopO)
 - [【Z 世代がたった数年で会社を見切る理由】「いても無駄」と「言っても無駄」／キャリア安全性の欠如／生存者バイアスの横行／悪しきマネジメントの継承／コンサルが人気の理由【Momentor 代表 坂井風太】](https://youtu.be/dhe3BeGR-Vo)
 - [日本一わかりやすい TypeScript 入門【基礎編】](https://www.youtube.com/playlist?list=PLX8Rsrpnn3IW0REXnTWQp79mxCvHkIrad)
+- [Next.js 13 入門 - App Router 対応](https://youtu.be/lO-Ulx1rclk?si=IsSNYXndkrXzx0s3)
 
 ## アウトプット
 
