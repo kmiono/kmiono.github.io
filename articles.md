@@ -56,6 +56,7 @@
 
 - [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
+- [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
 
 ## その他
 
