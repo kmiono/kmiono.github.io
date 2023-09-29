@@ -6,6 +6,7 @@
 - [【外資系うさぎの雑感】その５．あの"パワハラ会議”の議事録を書いてみた](https://note.com/choconejito/n/n74d5da74fba7)
 - [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
 - [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
+- [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 
 ## ツール
 
@@ -19,6 +20,8 @@
 
 - [エルデンリングから学んだ、プログラミング学習に必要な７つのこと](https://qiita.com/karamage/items/d0b323ac0143a9f51ebb)
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
+- [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
+-
 
 ### TypeScript
 
@@ -39,6 +42,9 @@
 ## 個人開発
 
 - [もっと気軽にアウトプットできる技術ブログサービス「Qrunch（クランチ）」をリリースした【個人開発】](https://qiita.com/terubooon/items/95a561d163d26bbfe274)
+- [「UI の良さ」ってのはユーザビリティだけじゃないんだよ〜UNDERTALE の UI](https://note.com/uxakachan/n/n912fb2a9cce1)
+- [個人開発が続かない理由は「時間」「戦略」「気力」「孤独」 4 つの“つらみ”を解消するアジャイル開発・スクラム開発のエッセンス](https://logmi.jp/tech/articles/329327)
+- [小さなゲーム開発についての小さな電子冊子を作ったよ](https://aba.hatenablog.com/entry/2023/09/25/202653)
 
 ## 動画
 
