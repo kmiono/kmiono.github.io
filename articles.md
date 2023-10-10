@@ -7,6 +7,8 @@
 - [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
 - [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
+- [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
+- [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
 
 ## ツール
 
