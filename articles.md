@@ -47,6 +47,10 @@
 - [個人開発が続かない理由は「時間」「戦略」「気力」「孤独」 4 つの“つらみ”を解消するアジャイル開発・スクラム開発のエッセンス](https://logmi.jp/tech/articles/329327)
 - [小さなゲーム開発についての小さな電子冊子を作ったよ](https://aba.hatenablog.com/entry/2023/09/25/202653)
 
+## UI/UX
+
+- [ユーザー目線に配慮した入力フォームのデザインを考える〜より良いフォームにするために](https://note.com/chot_designer/n/nd064bced65c8)
+
 ## 動画
 
 - [Astro で Markdown 対応ブログを作ろう【60 分】](https://youtu.be/tgW_GnfMr8o)
