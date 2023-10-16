@@ -23,6 +23,7 @@
 - [エルデンリングから学んだ、プログラミング学習に必要な７つのこと](https://qiita.com/karamage/items/d0b323ac0143a9f51ebb)
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
+- [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
 
 ### TypeScript
 
@@ -34,22 +35,29 @@
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
+- [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 
 ## 機械学習
 
 - [平成の次の元号を、AI だけで決めさせる物語](https://qiita.com/youwht/items/0b204c3575c94fc786b8)
 - [ChatGPT を最強の学習ツールにする方法](https://qiita.com/tak001/items/7605f0be7b424118e5a5)
+- [Google、無償で生成 AI を遊びながら学べるゲームを公開](https://forest.watch.impress.co.jp/docs/news/1538529.html)
 
 ## 個人開発
 
 - [もっと気軽にアウトプットできる技術ブログサービス「Qrunch（クランチ）」をリリースした【個人開発】](https://qiita.com/terubooon/items/95a561d163d26bbfe274)
-- [「UI の良さ」ってのはユーザビリティだけじゃないんだよ〜UNDERTALE の UI](https://note.com/uxakachan/n/n912fb2a9cce1)
 - [個人開発が続かない理由は「時間」「戦略」「気力」「孤独」 4 つの“つらみ”を解消するアジャイル開発・スクラム開発のエッセンス](https://logmi.jp/tech/articles/329327)
 - [小さなゲーム開発についての小さな電子冊子を作ったよ](https://aba.hatenablog.com/entry/2023/09/25/202653)
 
+## フロントエンド
+
+- [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
+
 ## UI/UX
 
+- [「UI の良さ」ってのはユーザビリティだけじゃないんだよ〜UNDERTALE の UI](https://note.com/uxakachan/n/n912fb2a9cce1)
 - [ユーザー目線に配慮した入力フォームのデザインを考える〜より良いフォームにするために](https://note.com/chot_designer/n/nd064bced65c8)
+- [CSS 数式アニメーションで初速も考慮できる表現力の高いイージングを書く](https://katashin.info/posts/css-math-animation/)
 
 ## 動画
 
@@ -74,3 +82,4 @@
 
 - [エンジニアのための刑事事件対策まとめ](https://qiita.com/moroi/items/e9db57db2bcdbc089ca1)
 - [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
+- [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
