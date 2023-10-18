@@ -1,5 +1,27 @@
 # JUnit 入門
 
+## 目次
+
+- [JUnit 入門](#junit-入門)
+  - [目次](#目次)
+  - [JUnit とは](#junit-とは)
+  - [実行環境](#実行環境)
+    - [テスト対象とするコードの用意](#テスト対象とするコードの用意)
+    - [テストコードの作成](#テストコードの作成)
+  - [assert メソッドの種類](#assert-メソッドの種類)
+    - [assertThat](#assertthat)
+    - [Matcher API](#matcher-api)
+      - [is](#is)
+      - [not](#not)
+        - [テストプログラム](#テストプログラム)
+      - [null value](#null-value)
+        - [テストプログラム](#テストプログラム-1)
+      - [notNullValue](#notnullvalue)
+      - [instanceOf(isA)](#instanceofisa)
+    - [読んだけどどれで何するのか忘れた！](#読んだけどどれで何するのか忘れた)
+    - [参考](#参考)
+      - [JUnit5 に関する記事](#junit5に関する記事)
+
 ## JUnit とは
 
 JUnit は、Java で作成したコードの単体テストを実施するツール
@@ -359,7 +381,7 @@ public class Color5Test {
 - [Hamcrest の Matchers に定義されているメソッドの使い方メモ](https://qiita.com/opengl-8080/items/e57dab6e1fa5940850a3)
 - [Hamcrest Javadoc](https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/CoreMatchers.html)
 
-#### JUnit5に関する記事
+#### JUnit5 に関する記事
 
-- [Junit5 でよく使うAssertionをまとめる](https://zenn.dev/ttak/articles/bf1fd780c93d50)
+- [Junit5 でよく使う Assertion をまとめる](https://zenn.dev/ttak/articles/bf1fd780c93d50)
 - [JUnit 入門（勉強メモ）](https://qiita.com/yuk0ga/items/74a0dbe36da02b358451)
