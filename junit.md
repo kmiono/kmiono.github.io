@@ -104,9 +104,9 @@ public void notを試す() {
 
 ##### テストプログラム
 
-_クラスファイル_
+__
 
-```
+```クラスファイル
 class Color2 {
 	String getColor(int i) {
 
