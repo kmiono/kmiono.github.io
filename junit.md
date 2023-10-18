@@ -9,7 +9,9 @@ JUnit は、Java で作成したコードの単体テストを実施するツー
 eclipse
 
 テストファイルの作成に関しては下記記事を参考にすると分かりやすいかと思います。  
-[Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)
+プロジェクトはeclipse上で右クリック→新規Javaプロジェクトを選択しましょう。  
+[Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)  
+
 
 ### テスト対象とするコードの用意
 
