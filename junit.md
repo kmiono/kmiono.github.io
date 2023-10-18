@@ -8,10 +8,9 @@ JUnit は、Java で作成したコードの単体テストを実施するツー
 
 eclipse
 
-プロジェクトはeclipse上で右クリック→新規Javaプロジェクトを選択しましょう。  
+プロジェクトは eclipse 上で右クリック → 新規 Java プロジェクトを選択しましょう。  
 テストファイルの作成に関しては下記記事を参考にすると分かりやすいかと思います。  
-[Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)  
-
+[Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)
 
 ### テスト対象とするコードの用意
 
@@ -105,6 +104,8 @@ public void notを試す() {
 
 ##### テストプログラム
 
+_クラスファイル_
+
 ```
 class Color2 {
 	String getColor(int i) {
@@ -121,6 +122,8 @@ class Color2 {
 	}
 }
 ```
+
+_テストファイル_
 
 ```
 import static org.junit.Assert.*;
@@ -157,7 +160,16 @@ public class Color2Test {
 
 null であることを確かめます
 
+```
+@Test
+public void nullValueを試す() {
+	assertThat(null, nullValue());
+}
+```
+
 ##### テストプログラム
+
+_クラスファイル_
 
 ```
 class Color3 {
@@ -175,6 +187,8 @@ class Color3 {
 	}
 }
 ```
+
+_テストファイル_
 
 ```
 import static org.junit.Assert.*;
@@ -210,6 +224,15 @@ public class Color3Test {
 null でないことを確かめます
 
 ```
+@Test
+public void notNullValueを試す() {
+	assertThat("not null", is(notNullValue()));
+}
+```
+
+_クラスファイル_
+
+```
 class Color4 {
 	String getColor(int i) {
 
@@ -225,6 +248,8 @@ class Color4 {
 	}
 }
 ```
+
+_テストファイル_
 
 ```
 import static org.junit.Assert.*;
@@ -260,6 +285,15 @@ public class Color4Test {
 指定した型と同一であるかを確かめます。
 
 ```
+@Test
+public void instanceOfを試す() {
+	assertThat("Hello", instanceOf(String.class));
+}
+```
+
+_クラスファイル_
+
+```
 class Color5 {
 	String getColor(int i) {
 
@@ -275,6 +309,8 @@ class Color5 {
 	}
 }
 ```
+
+_テストファイル_
 
 ```
 import static org.junit.Assert.*;
