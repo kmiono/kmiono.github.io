@@ -354,7 +354,6 @@ public class Color5Test {
 
 ### 参考
 
-- [JUnit 入門（勉強メモ）](https://qiita.com/yuk0ga/items/74a0dbe36da02b358451)
 - [JUnit の使い方（初級）](https://qiita.com/YutaSaito1991/items/46707049d0a26086b443)
 - [Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)
 - [Hamcrest の Matchers に定義されているメソッドの使い方メモ](https://qiita.com/opengl-8080/items/e57dab6e1fa5940850a3)
@@ -363,3 +362,4 @@ public class Color5Test {
 #### JUnit5に関する記事
 
 - [Junit5 でよく使うAssertionをまとめる](https://zenn.dev/ttak/articles/bf1fd780c93d50)
+- [JUnit 入門（勉強メモ）](https://qiita.com/yuk0ga/items/74a0dbe36da02b358451)
