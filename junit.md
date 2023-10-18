@@ -154,7 +154,7 @@ public class Color2Test {
 
 ```
 
-→ 　 testGetColor2 のみが成功するかと思います（i = オレンジではない）
+→ 　 testGetColor2 のみが成功するかと思います（「i = オレンジではないこと」は正しい）
 
 #### null value
 
