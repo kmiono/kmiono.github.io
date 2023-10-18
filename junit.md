@@ -305,7 +305,7 @@ public class Color4Test {
 
 基礎的なものを列挙しました。
 
-より多くの Matcher を知りたいという方はこちら ↓
+さらに多くの Matcher を知りたいという方はこちら ↓
 [Hamcrest の Matchers に定義されているメソッドの使い方メモ](https://qiita.com/opengl-8080/items/e57dab6e1fa5940850a3)を一読してみると良いかもしれません。
 
 公式（？）のドキュメントとしては[Hamcrest Javadoc](https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/CoreMatchers.html)がありますが、英語＋文章が分かりづらいので、どなたかが噛み砕いてくださった記事をまず参考にするのが良いのかなと。
