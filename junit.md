@@ -312,7 +312,7 @@ public class Color5Test {
 
 ### 読んだけどどれで何するのか忘れた！
 
-落ち着いてください。まずは Google 先生に「JUnit　(テストしたいこと)」を尋ねましょう。
+落ち着いてください。まずは Google 先生に「JUnit 　(テストしたいこと)」を尋ねましょう。
 
 ### 参考
 
@@ -320,3 +320,4 @@ public class Color5Test {
 - [JUnit の使い方（初級）](https://qiita.com/YutaSaito1991/items/46707049d0a26086b443)
 - [Java JUnit4 の使い方とテストのサンプル](https://itsakura.com/java-junit)
 - [Hamcrest の Matchers に定義されているメソッドの使い方メモ](https://qiita.com/opengl-8080/items/e57dab6e1fa5940850a3)
+- [Hamcrest Javadoc](https://hamcrest.org/JavaHamcrest/javadoc/1.3/org/hamcrest/CoreMatchers.html)
