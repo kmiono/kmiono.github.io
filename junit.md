@@ -274,7 +274,7 @@ public class Color4Test {
 	public void testGetColor3() {
 		Color1 c1 = new Color1();
 		String t1 = c1.getColor(3);
-		assertThat("1or2を入力して下さい",is(notBullValue()));
+		assertThat("1or2を入力して下さい",is(notNullValue()));
 	}
 }
 
