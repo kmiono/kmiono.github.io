@@ -258,7 +258,7 @@ public class Color4Test {
 指定した型と同一であるかを確かめます。
 
 ```
-class Color4 {
+class Color5 {
 	String getColor(int i) {
 
 		if (i == 1) {
@@ -279,7 +279,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.*;
 
-public class Color4Test {
+public class Color5Test {
 
 	@Test
 	public void testGetColor1() {
