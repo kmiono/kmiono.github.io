@@ -9,6 +9,7 @@
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 - [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
 - [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
+- [【資料公開】プロダクトマネージャーのしごと](https://www.ryuzee.com/contents/blog/14586)
 
 ## ツール
 
