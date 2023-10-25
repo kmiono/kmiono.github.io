@@ -26,6 +26,8 @@
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
+- [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
+- [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 
 ### TypeScript
 
