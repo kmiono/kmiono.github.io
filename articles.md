@@ -9,8 +9,16 @@
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 - [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
 - [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
+- [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
+
+## マネジメント
+
 - [【資料公開】プロダクトマネージャーのしごと](https://www.ryuzee.com/contents/blog/14586)
 - [イチから全部作ってみよう（1）ソフトウェア開発の大まかな流れを把握する](https://monoist.itmedia.co.jp/mn/articles/2310/19/news049.html)
+
+## タスク管理
+
+- [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 
 ## ツール
 
@@ -28,6 +36,7 @@
 - [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
 - [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
+- [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 
 ### TypeScript
 
@@ -56,6 +65,7 @@
 ## フロントエンド
 
 - [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
+- [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 
 ## UI/UX
 
@@ -87,3 +97,4 @@
 - [エンジニアのための刑事事件対策まとめ](https://qiita.com/moroi/items/e9db57db2bcdbc089ca1)
 - [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
 - [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
+- [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
