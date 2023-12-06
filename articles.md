@@ -37,6 +37,7 @@
 - [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
+- [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
 
 ### TypeScript
 
