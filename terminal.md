@@ -44,10 +44,11 @@ linux：Ubuntu 20.04.5 LTS
 ```
 
 2024/02/16追記  
-```
-homebrewインストールする前にgit configの設定を通しておくこと
-githubからcloneしてくるため、gitの設定が通っていないとインストールができない
-```
+
+> [!warning]
+> homebrewインストールする前にgit configの設定を通しておくこと
+> githubからcloneしてくるため、gitの設定が通っていないとインストールができない
+
 
 ### fish shell のインストール
 
