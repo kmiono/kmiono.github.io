@@ -34,7 +34,7 @@ linux：Ubuntu 20.04.5 LTS
 
 > [!warning]
 > 2024/04/16対応  
-> homebrewがexa非対応になった？　exaがhomebrew非対応になった？　のでezaという似たコマンドをインストール  
+> exa更新停止しているらしいので、ezaという似たコマンドをインストール  
 
 ### oh-my-bash の設定
 
@@ -46,7 +46,7 @@ linux：Ubuntu 20.04.5 LTS
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
-環境変数変えればテーマ変更できるらしいが出来てない。要調査。  
+環境変数変えればテーマ変更できる。font（デフォルトテーマ）が設定されている環境変数を探して変更する。  
 
 ## 2023/08/01 追加分
 
@@ -60,16 +60,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/mast
 
 コマンドライン上で zip を解凍したりするするコマンド  
 ダウンロードに使う
-
-### fish
-
-今回は無事起動。brew コマンドも無事動いた。  
-恐らく前回は再起動をしていなかったため動かなかったのではないかと推測。
-
-### Fisher
-
-fish のプラグインマネージャ  
-旧 Fisherman。古い記事だと Fisherman の記述を見かける。
 
 ### asdf
 
