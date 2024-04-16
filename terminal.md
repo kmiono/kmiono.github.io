@@ -8,77 +8,17 @@ linux：Ubuntu 20.04.5 LTS
 
 ## やったこと
 
-- homebrew のインストール
-- fish shell のインストール
-- bash への切り替え
 - 拡張コマンドの追加
-- starship の設定
-
-## 2023/08/01 追加分
+- oh-my-bashの追加
 
 ## 入れたもの
 
 - zip & unzip
-- fish shell
-- Fisher
-- asdf
-- oh-my-fish
 - fzf
 - ghq
 - z
-- fish-bd
-- 起動時に fish ロゴを表示
-
-### homebrew のインストール
-
-以前公式通りにやって失敗したので、下記記事を参照しました。
-
-[WSL+homebrew+fish 環境構築まとめ](https://qiita.com/m0710fa/items/fb231eadef55d69b4450)
-
-このとき`/etc/shells`に追加した設定
-
-```
-/home/linuxbrew/.linuxbrew/bin/fish
-/usr/local/bin/fish
-/opt/homebrew/bin/fish
-```
-
-2024/02/16追記  
-
-> [!warning]
-> homebrewインストールする前にgit configの設定を通しておくこと  
-> githubからcloneしてくるため、gitの設定が通っていないとインストールができない
-
-
-### fish shell のインストール
-
-~~上記「WSL+homebrew+fish 環境構築まとめ」を参照してインストール。~~  
-~~しかし~~
-
-- ~~入れたはずの brew コマンドが効いてくれない~~
-- ~~fish のメジャーパッケージ管理ツールを使っても拡張コマンドが追加できない~~
-- ~~原因を調べようにも時間がかかりすぎる~~
-  ~~などの理由からおよそ 2 時間で bash へ戻すことになりました。~~
-
-~~補完が非常に有能なので linux の知見が集まったらまた挑戦したいと思います。~~  
-~~（諸々のパスが引き継がれていなかった気がする）~~
-
-下記[fish](#fish)にて実装
-
-### bash への切り替え
-
-`/etc/shells`から fish のログインシェルに関係する`/usr/local/bin/fish`を削除
-
-下記コマンドを実行して再起動  
-（コマンドだけで良い気はする）
-
-```
-chsh -s /bin/bash
-```
 
 ### 拡張コマンドの追加
-
-bash に戻したところ`brew`コマンドが使用できたので、
 
 - fd
 - exa
