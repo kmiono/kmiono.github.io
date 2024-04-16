@@ -46,7 +46,7 @@ linux：Ubuntu 20.04.5 LTS
 2024/02/16追記  
 
 > [!warning]
-> homebrewインストールする前にgit configの設定を通しておくこと
+> homebrewインストールする前にgit configの設定を通しておくこと  
 > githubからcloneしてくるため、gitの設定が通っていないとインストールができない
 
 
