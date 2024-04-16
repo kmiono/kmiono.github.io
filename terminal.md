@@ -3,7 +3,7 @@
 ## 環境
 
 OS：Windows 11 Home 22H2  
-linux：Ubuntu 20.04.5 LTS  
+linux：Ubuntu 22.04.5 LTS  
 ターミナル：Tabby Terminal（Windows Terminal が使いづらいため代替）
 
 ## やったこと
@@ -116,53 +116,10 @@ $ cd ~ # 動作確認のため、他の適当なディレクトリへ移動
 $ cd fish # ~/.config/fish/ へ移動できる
 ```
 
-### fish-bd
-
-ディレクトリを上に遡れる。そんだけ
-
-```
-bd # cd ..
-```
-
-って入れるだけで爆速で上に行くので結構便利。補完が利くので bd を入れるだけでよいのがなお便利
-
-### 起動時に fish ロゴを表示
-
-fish_logo という魚を表示するプラグインを利用して起動時に魚を表示させるようにする。  
-これにより何のシェルを使っているのか分かりやすくなる。
-
-上記[bash への切り替え](#bashへの切り替え)にて戻せる。
-
-### oh-my-fish の設定
-
-oh-my-fish：fish のカラーテーマ  
-今回は bobthefith を採用  
-ちなみに powershell 用の oh-my-posh とか bash 用の oh-my-bash とか色々いる
-
-### AstroNvim の追加
-
-主に[VSCode が物足りない人へ AstroNvim の紹介](https://zenn.dev/chot/articles/72bc7dfbec3b33)を参照
-
-plugin ファイルは~/.config/nvim/lua/plugins 以下にある。
-クリップボードへコピーが出来るので良い（vim はその辺の処理がまた特殊なので設定をいじくる必要あり）。
-
 #### Git 連携
 
 以下の記事を参考  
 [GitHub に ssh 接続できるようにする](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)  
-ただし fish shell にしているため
-
-```
-eval "$(ssh-agent -s)"
-```
-
-コマンドは動かない
-
-```
-eval (ssh-agent -c)
-```
-
-を使う
 
 それでも`git push`が出来なかったため（commit はできた）
 
