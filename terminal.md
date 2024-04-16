@@ -92,11 +92,16 @@ bash に戻したところ`brew`コマンドが使用できたので、
 [fzf を活用して Terminal の作業効率を高める](https://qiita.com/kamykn/items/aa9920f07487559c0c7e)  
 [fzf と ghq を組み合わせてプログラミングの心理的・作業的負荷を軽減する](https://zenn.dev/isana/articles/20210628fzfghq)
 
-### starship の設定
+### oh-my-posh の設定
 
-導入に関しては下記
+導入に関しては公式参照
 
-[Rust 製ツールでおしゃれなターミナル環境を作る【Starship ✕ exa】](https://zenn.dev/ryuu/articles/customize-your-terminal)
+[oh-my-posh | Get Started | Linux ](https://ohmyposh.dev/docs/installation/linux)  
+
+Costumize => homebrewのコードの`http`以下を好みのテーマに変更して入力  
+Config Syntaxはbashを参照  
+
+恐らくLinux（WBS）環境＋homebrew＋bashという組み合わせが特殊
 
 ```
 starship config
