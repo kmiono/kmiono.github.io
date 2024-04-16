@@ -43,6 +43,12 @@ linux：Ubuntu 20.04.5 LTS
 /opt/homebrew/bin/fish
 ```
 
+2024/02/16追記  
+```
+homebrewインストールする前にgit configの設定を通しておくこと
+githubからcloneしてくるため、gitの設定が通っていないとインストールができない
+```
+
 ### fish shell のインストール
 
 ~~上記「WSL+homebrew+fish 環境構築まとめ」を参照してインストール。~~  
