@@ -36,22 +36,17 @@ linux：Ubuntu 20.04.5 LTS
 > 2024/04/16対応  
 > homebrewがexa非対応になった？　exaがhomebrew非対応になった？　のでezaという似たコマンドをインストール  
 
-### oh-my-posh の設定
+### oh-my-bash の設定
 
 導入に関しては公式参照
 
-[oh-my-posh | Get Started | Linux ](https://ohmyposh.dev/docs/installation/linux)  
+[oh-my-bash](https://ohmybash.nntoan.com)  
 
-ちなみに  
+インストールコードは以下  
 ```
-brew install oh-my-posh
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
-でいける。今の環境（brew？）がoh-my-bash非対応らしい  
-
-Costumize => homebrewのコードの`http`以下を好みのテーマに変更して入力  
-Config Syntaxはbashを参照  
-
-恐らくLinux（WBS）環境＋homebrew＋bashという組み合わせが特殊
+環境変数変えればテーマ変更できるらしいが出来てない。要調査。  
 
 ## 2023/08/01 追加分
 
