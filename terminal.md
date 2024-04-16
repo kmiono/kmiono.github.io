@@ -93,7 +93,7 @@ bash に戻したところ`brew`コマンドが使用できたので、
 [fzf と ghq を組み合わせてプログラミングの心理的・作業的負荷を軽減する](https://zenn.dev/isana/articles/20210628fzfghq)
 
 > [!warning]
-> 2024/04/16対応
+> 2024/04/16対応  
 > homebrewがexa非対応になった？　exaがhomebrew非対応になった？　のでezaという似たコマンドをインストール  
 
 ### oh-my-posh の設定
