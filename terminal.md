@@ -98,6 +98,12 @@ bash に戻したところ`brew`コマンドが使用できたので、
 
 [oh-my-posh | Get Started | Linux ](https://ohmyposh.dev/docs/installation/linux)  
 
+ちなみに  
+```
+brew install oh-my-posh
+```
+でいける。今の環境（brew？）がoh-my-bash非対応らしい  
+
 Costumize => homebrewのコードの`http`以下を好みのテーマに変更して入力  
 Config Syntaxはbashを参照  
 
