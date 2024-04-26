@@ -3,75 +3,22 @@
 ## 環境
 
 OS：Windows 11 Home 22H2  
-linux：Ubuntu 20.04.5 LTS  
+linux：Ubuntu 22.04.5 LTS  
 ターミナル：Tabby Terminal（Windows Terminal が使いづらいため代替）
 
 ## やったこと
 
-- homebrew のインストール
-- fish shell のインストール
-- bash への切り替え
 - 拡張コマンドの追加
-- starship の設定
-
-## 2023/08/01 追加分
+- oh-my-bashの追加
 
 ## 入れたもの
 
 - zip & unzip
-- fish shell
-- Fisher
-- asdf
-- oh-my-fish
 - fzf
 - ghq
 - z
-- fish-bd
-- 起動時に fish ロゴを表示
-
-### homebrew のインストール
-
-以前公式通りにやって失敗したので、下記記事を参照しました。
-
-[WSL+homebrew+fish 環境構築まとめ](https://qiita.com/m0710fa/items/fb231eadef55d69b4450)
-
-このとき`/etc/shells`に追加した設定
-
-```
-/home/linuxbrew/.linuxbrew/bin/fish
-/usr/local/bin/fish
-/opt/homebrew/bin/fish
-```
-
-### fish shell のインストール
-
-~~上記「WSL+homebrew+fish 環境構築まとめ」を参照してインストール。~~  
-~~しかし~~
-
-- ~~入れたはずの brew コマンドが効いてくれない~~
-- ~~fish のメジャーパッケージ管理ツールを使っても拡張コマンドが追加できない~~
-- ~~原因を調べようにも時間がかかりすぎる~~
-  ~~などの理由からおよそ 2 時間で bash へ戻すことになりました。~~
-
-~~補完が非常に有能なので linux の知見が集まったらまた挑戦したいと思います。~~  
-~~（諸々のパスが引き継がれていなかった気がする）~~
-
-下記[fish](#fish)にて実装
-
-### bash への切り替え
-
-`/etc/shells`から fish のログインシェルに関係する`/usr/local/bin/fish`を削除
-
-下記コマンドを実行して再起動  
-（コマンドだけで良い気はする）
-
-```
-chsh -s /bin/bash
-```
 
 ### 拡張コマンドの追加
-
-bash に戻したところ`brew`コマンドが使用できたので、
 
 - fd
 - exa
@@ -85,119 +32,21 @@ bash に戻したところ`brew`コマンドが使用できたので、
 [fzf を活用して Terminal の作業効率を高める](https://qiita.com/kamykn/items/aa9920f07487559c0c7e)  
 [fzf と ghq を組み合わせてプログラミングの心理的・作業的負荷を軽減する](https://zenn.dev/isana/articles/20210628fzfghq)
 
-### starship の設定
+> [!warning]
+> 2024/04/16対応  
+> exa更新停止しているらしいので、ezaという似たコマンドをインストール  
 
-導入に関しては下記
+### oh-my-bash の設定
 
-[Rust 製ツールでおしゃれなターミナル環境を作る【Starship ✕ exa】](https://zenn.dev/ryuu/articles/customize-your-terminal)
+導入に関しては公式参照
 
+[oh-my-bash](https://ohmybash.nntoan.com)  
+
+インストールコードは以下  
 ```
-starship config
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
 ```
-
-を入力して設定を表示、編集
-
-※:wq コマンドで設定ファイルを保存できない(readonly)設定の時は下記参照
-
-[WSL2 で Starship を使っておしゃれなターミナルを作成する](https://qiita.com/Sicut_study/items/6aa87a758132ca006d5)
-
-現状の設定
-
-```
-add_newline = true
-
-# タイムアウト時間
-scan_timeout = 10
-
-[character]
-success_symbol = "[▶](bold green)" # コマンド成功時
-error_symbol = "[▶](bold red)"    # コマンド失敗時
-vicmd_symbol = "[◀](bold green)"
-
-[cmd_duration]
-format = " [$duration]($style)"
-
-[directory]
-read_only = " "
-truncate_to_repo = false
-truncation_symbol = " /"
-
-[git_status]
-disabled = true
-
-[memory_usage]
-disabled = false
-format = "via [$symbol$ram_pct]($style) "
-symbol = " "
-
-[time]
-disabled = false
-format = "[$time]($style) "
-use_12hr = true
-
-[aws]
-symbol = "  "
-
-[conda]
-symbol = " "
-
-[dart]
-symbol = " "
-
-[docker_context]
-symbol = " "
-
-[elixir]
-symbol = " "
-
-[elm]
-symbol = " "
-
-[git_branch]
-symbol = " "
-
-[golang]
-symbol = " "
-
-[hg_branch]
-symbol = " "
-
-[java]
-symbol = " "
-
-[julia]
-symbol = " "
-
-[nim]
-symbol = " "
-
-[nix_shell]
-symbol = " "
-
-[package]
-symbol = " "
-
-[perl]
-symbol = " "
-
-[php]
-symbol = " "
-
-[python]
-symbol = " "
-
-[ruby]
-symbol = " "
-
-[rust]
-symbol = " "
-
-[scala]
-symbol = " "
-
-[swift]
-symbol = "ﯣ "
-```
+環境変数変えればテーマ変更できる。font（デフォルトテーマ）が設定されている環境変数を探して変更する。  
 
 ## 2023/08/01 追加分
 
@@ -211,16 +60,6 @@ symbol = "ﯣ "
 
 コマンドライン上で zip を解凍したりするするコマンド  
 ダウンロードに使う
-
-### fish
-
-今回は無事起動。brew コマンドも無事動いた。  
-恐らく前回は再起動をしていなかったため動かなかったのではないかと推測。
-
-### Fisher
-
-fish のプラグインマネージャ  
-旧 Fisherman。古い記事だと Fisherman の記述を見かける。
 
 ### asdf
 
@@ -277,53 +116,10 @@ $ cd ~ # 動作確認のため、他の適当なディレクトリへ移動
 $ cd fish # ~/.config/fish/ へ移動できる
 ```
 
-### fish-bd
-
-ディレクトリを上に遡れる。そんだけ
-
-```
-bd # cd ..
-```
-
-って入れるだけで爆速で上に行くので結構便利。補完が利くので bd を入れるだけでよいのがなお便利
-
-### 起動時に fish ロゴを表示
-
-fish_logo という魚を表示するプラグインを利用して起動時に魚を表示させるようにする。  
-これにより何のシェルを使っているのか分かりやすくなる。
-
-上記[bash への切り替え](#bashへの切り替え)にて戻せる。
-
-### oh-my-fish の設定
-
-oh-my-fish：fish のカラーテーマ  
-今回は bobthefith を採用  
-ちなみに powershell 用の oh-my-posh とか bash 用の oh-my-bash とか色々いる
-
-### AstroNvim の追加
-
-主に[VSCode が物足りない人へ AstroNvim の紹介](https://zenn.dev/chot/articles/72bc7dfbec3b33)を参照
-
-plugin ファイルは~/.config/nvim/lua/plugins 以下にある。
-クリップボードへコピーが出来るので良い（vim はその辺の処理がまた特殊なので設定をいじくる必要あり）。
-
 #### Git 連携
 
 以下の記事を参考  
 [GitHub に ssh 接続できるようにする](https://qiita.com/0ta2/items/25c27d447378b13a1ac3)  
-ただし fish shell にしているため
-
-```
-eval "$(ssh-agent -s)"
-```
-
-コマンドは動かない
-
-```
-eval (ssh-agent -c)
-```
-
-を使う
 
 それでも`git push`が出来なかったため（commit はできた）
 
