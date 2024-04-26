@@ -1,5 +1,7 @@
 # 有用記事まとめ
 
+[ホームに戻る](index.md)
+
 ## 現場
 
 - [もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
@@ -19,6 +21,7 @@
 ## タスク管理
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
+- [どんなに忙しくても「自分の時間」を捻出できる人がしている5つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
 
 ## ツール
 
@@ -38,6 +41,7 @@
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
+- [エラーが怖い？それならSyntax Errorを「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 
 ### TypeScript
 
@@ -50,12 +54,15 @@
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## 機械学習
 
 - [平成の次の元号を、AI だけで決めさせる物語](https://qiita.com/youwht/items/0b204c3575c94fc786b8)
 - [ChatGPT を最強の学習ツールにする方法](https://qiita.com/tak001/items/7605f0be7b424118e5a5)
 - [Google、無償で生成 AI を遊びながら学べるゲームを公開](https://forest.watch.impress.co.jp/docs/news/1538529.html)
+- [『Winny』の金子勇さんの失われたED法を求めて...いたら見つかりました](https://qiita.com/kanekanekaneko/items/901ee2837401750dfdad)
+- [金子勇さんのED法を実装してMNISTを学習させてみた](https://qiita.com/pocokhc/items/f7ab56051bb936740b8f)
 
 ## 個人開発
 
@@ -99,3 +106,4 @@
 - [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
 - [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
+- [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
