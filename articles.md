@@ -42,6 +42,7 @@
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
 - [エラーが怖い？それならSyntax Errorを「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
+- [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 
 ### TypeScript
 
@@ -74,12 +75,18 @@
 
 - [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
 - [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
+- [フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた](https://zenn.dev/raru_ex/articles/eb3aa038b38771)
 
 ## UI/UX
 
 - [「UI の良さ」ってのはユーザビリティだけじゃないんだよ〜UNDERTALE の UI](https://note.com/uxakachan/n/n912fb2a9cce1)
 - [ユーザー目線に配慮した入力フォームのデザインを考える〜より良いフォームにするために](https://note.com/chot_designer/n/nd064bced65c8)
 - [CSS 数式アニメーションで初速も考慮できる表現力の高いイージングを書く](https://katashin.info/posts/css-math-animation/)
+
+## リファクタリング
+
+- [「誰にもできる」より良いコードを書くためのテクニック](https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a)
+
 
 ## 動画
 
@@ -99,6 +106,7 @@
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
 - [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
+- [レベルアップしたい人必見　Qiita記事43選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
 
 ## その他
 
