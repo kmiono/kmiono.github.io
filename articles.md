@@ -43,12 +43,9 @@
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
-<<<<<<< Updated upstream
 - [エラーが怖い？それならSyntax Errorを「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
-=======
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
->>>>>>> Stashed changes
 
 ### TypeScript
 
