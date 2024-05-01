@@ -57,6 +57,10 @@
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
+## シェルスクリプト
+- [シェルスクリプト入門 書き方のまとめ | Memo on the Web](https://motw.mods.jp/shellscript/tutorial.html)
+- [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
+
 ## 機械学習
 
 - [平成の次の元号を、AI だけで決めさせる物語](https://qiita.com/youwht/items/0b204c3575c94fc786b8)
