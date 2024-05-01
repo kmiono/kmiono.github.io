@@ -31,6 +31,7 @@
 - [Slack はただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6)
 - [プログラミング用フォントの選び方とおすすめ無料フォント](https://pouhon.net/font-programming/4990/)
 - [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
+- [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
 
 ## プログラミング学習
 
@@ -42,8 +43,12 @@
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
+<<<<<<< Updated upstream
 - [エラーが怖い？それならSyntax Errorを「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
+=======
+- [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
+>>>>>>> Stashed changes
 
 ### TypeScript
 
