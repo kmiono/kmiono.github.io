@@ -55,11 +55,11 @@
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
-- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## シェルスクリプト
 - [シェルスクリプト入門 書き方のまとめ | Memo on the Web](https://motw.mods.jp/shellscript/tutorial.html)
 - [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## 機械学習
 
