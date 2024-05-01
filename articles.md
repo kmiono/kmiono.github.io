@@ -22,6 +22,7 @@
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている5つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
+- [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 
 ## ツール
 
