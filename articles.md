@@ -94,7 +94,6 @@
 
 - [「誰にもできる」より良いコードを書くためのテクニック](https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a)
 
-
 ## 動画
 
 - [Astro で Markdown 対応ブログを作ろう【60 分】](https://youtu.be/tgW_GnfMr8o)
