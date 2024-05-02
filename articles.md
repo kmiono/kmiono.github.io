@@ -8,17 +8,23 @@
 - [【外資系うさぎの雑感】その５．あの"パワハラ会議”の議事録を書いてみた](https://note.com/choconejito/n/n74d5da74fba7)
 - [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
 - [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
-- [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 - [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
 - [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
 - [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
+- [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
 
-## マネジメント
+### 質問
+
+- [【雑感】質問力というか"伝える力"が一番大事なのでは？というお話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n49c8aa8afdbf)
+- [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
+- [【アウトプット】質問力を上げるために、半沢直樹さんに質問①（質問力はなぜ鍛えた方がいいのか）｜Will@営業を科学する](https://note.com/willyamada/n/na9b80304d63f)
+
+### マネジメント
 
 - [【資料公開】プロダクトマネージャーのしごと](https://www.ryuzee.com/contents/blog/14586)
 - [イチから全部作ってみよう（1）ソフトウェア開発の大まかな流れを把握する](https://monoist.itmedia.co.jp/mn/articles/2310/19/news049.html)
 
-## タスク管理
+### タスク管理
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている5つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
@@ -54,15 +60,15 @@
 - [サバイバル TypeScript](https://typescriptbook.jp)
 - [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
 
+### シェルスクリプト
+- [シェルスクリプト入門 書き方のまとめ | Memo on the Web](https://motw.mods.jp/shellscript/tutorial.html)
+- [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
+
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
-
-## シェルスクリプト
-- [シェルスクリプト入門 書き方のまとめ | Memo on the Web](https://motw.mods.jp/shellscript/tutorial.html)
-- [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
-- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## 機械学習
 
