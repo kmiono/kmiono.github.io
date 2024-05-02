@@ -127,3 +127,4 @@
 - [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
+- [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_422/)
