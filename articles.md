@@ -12,6 +12,7 @@
 - [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
 - [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
 - [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
+- [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
 
 ### 質問
 
@@ -128,3 +129,4 @@
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
 - [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_422/)
+- [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
