@@ -62,7 +62,7 @@
 - [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
 
 ### シェルスクリプト
-- [シェルスクリプト入門 書き方のまとめ | Memo on the Web](https://motw.mods.jp/shellscript/tutorial.html)
+- [シェルスクリプト入門 書き方のまとめ](https://motw.mods.jp/shellscript/tutorial.html)
 - [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
@@ -115,7 +115,7 @@
 
 ## リンク集
 
-- [エッセイ一覧 | プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
+- [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
 - [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
@@ -130,5 +130,5 @@
 - [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
-- [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】 | レバテックラボ（レバテックLAB）](https://levtech.jp/media/article/column/detail_422/)
+- [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
