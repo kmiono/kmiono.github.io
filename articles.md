@@ -70,6 +70,7 @@
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
+- [中級Git操作](https://zenn.dev/eloy/articles/4017913277f629)
 
 ## 機械学習
 
@@ -132,3 +133,4 @@
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
 - [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
+- [理解力が低い方は「理解しない」のでなく、「理解力の範囲で理解」する → 表面的な理解に留まったり、曲解に疑問を持たずに止まる。 - Togetter](https://togetter.com/li/1870072)
