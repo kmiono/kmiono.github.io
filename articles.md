@@ -29,7 +29,7 @@
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている5つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
-- [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
+- [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 
 ## ツール
 
@@ -38,7 +38,7 @@
 - [Slack はただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6)
 - [プログラミング用フォントの選び方とおすすめ無料フォント](https://pouhon.net/font-programming/4990/)
 - [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
-- [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
+- [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
 
 ## プログラミング学習
 
