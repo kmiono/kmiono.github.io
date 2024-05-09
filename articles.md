@@ -61,16 +61,16 @@
 - [サバイバル TypeScript](https://typescriptbook.jp)
 - [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
 
-### シェルスクリプト
-- [シェルスクリプト入門 書き方のまとめ](https://motw.mods.jp/shellscript/tutorial.html)
-- [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
-- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
-
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 - [中級Git操作](https://zenn.dev/eloy/articles/4017913277f629)
+
+### シェルスクリプト
+- [シェルスクリプト入門 書き方のまとめ](https://motw.mods.jp/shellscript/tutorial.html)
+- [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
+- [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
 
 ## 機械学習
 
@@ -101,6 +101,7 @@
 ## リファクタリング
 
 - [「誰にもできる」より良いコードを書くためのテクニック](https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a)
+- [読みやすいコードのガイドライン（レビューア編） #コードレビュー - Qiita](https://qiita.com/atjjnnn/items/7f76f316a59b75ffe5a9)
 
 ## 動画
 
