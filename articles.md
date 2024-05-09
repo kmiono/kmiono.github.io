@@ -19,7 +19,7 @@
 
 - [【雑感】質問力というか"伝える力"が一番大事なのでは？というお話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n49c8aa8afdbf)
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
-- [【アウトプット】質問力を上げるために、半沢直樹さんに質問①（質問力はなぜ鍛えた方がいいのか）｜Will@営業を科学する](https://note.com/willyamada/n/na9b80304d63f)
+- [【アウトプット】質問力を上げるために、半沢直樹さんに質問 ①（質問力はなぜ鍛えた方がいいのか）｜ Will@営業を科学する](https://note.com/willyamada/n/na9b80304d63f)
 
 ### マネジメント
 
@@ -29,7 +29,7 @@
 ### タスク管理
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
-- [どんなに忙しくても「自分の時間」を捻出できる人がしている5つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
+- [どんなに忙しくても「自分の時間」を捻出できる人がしている 5 つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
 - [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 
 ## ツール
@@ -51,7 +51,7 @@
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
-- [エラーが怖い？それならSyntax Errorを「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
+- [エラーが怖い？それなら Syntax Error を「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
 
@@ -66,9 +66,10 @@
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
-- [中級Git操作](https://zenn.dev/eloy/articles/4017913277f629)
+- [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
 
 ### シェルスクリプト
+
 - [シェルスクリプト入門 書き方のまとめ](https://motw.mods.jp/shellscript/tutorial.html)
 - [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me/)
 - [【永久保存版】シェルスクリプト完全攻略ガイド](https://qiita.com/osw_nuco/items/a5d7173c1e443030875f)
@@ -78,8 +79,8 @@
 - [平成の次の元号を、AI だけで決めさせる物語](https://qiita.com/youwht/items/0b204c3575c94fc786b8)
 - [ChatGPT を最強の学習ツールにする方法](https://qiita.com/tak001/items/7605f0be7b424118e5a5)
 - [Google、無償で生成 AI を遊びながら学べるゲームを公開](https://forest.watch.impress.co.jp/docs/news/1538529.html)
-- [『Winny』の金子勇さんの失われたED法を求めて...いたら見つかりました](https://qiita.com/kanekanekaneko/items/901ee2837401750dfdad)
-- [金子勇さんのED法を実装してMNISTを学習させてみた](https://qiita.com/pocokhc/items/f7ab56051bb936740b8f)
+- [『Winny』の金子勇さんの失われた ED 法を求めて...いたら見つかりました](https://qiita.com/kanekanekaneko/items/901ee2837401750dfdad)
+- [金子勇さんの ED 法を実装して MNIST を学習させてみた](https://qiita.com/pocokhc/items/f7ab56051bb936740b8f)
 
 ## 個人開発
 
@@ -117,13 +118,13 @@
 
 ## リンク集
 
-- [プログラマが知るべき97のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
+- [プログラマが知るべき 97 のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
 - [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
 - [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
-- [レベルアップしたい人必見　Qiita記事43選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
-- [Qiita殿堂入りのホームページ](https://matt-note.github.io/qden/)
+- [レベルアップしたい人必見　 Qiita 記事 43 選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
+- [Qiita 殿堂入りのホームページ](https://matt-note.github.io/qden/)
 
 ## その他
 
@@ -132,6 +133,8 @@
 - [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
-- [プログラマーがソースコード内に書いた「アスキーアート」図2000点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
+- [プログラマーがソースコード内に書いた「アスキーアート」図 2000 点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [理解力が低い方は「理解しない」のでなく、「理解力の範囲で理解」する → 表面的な理解に留まったり、曲解に疑問を持たずに止まる。 - Togetter](https://togetter.com/li/1870072)
+
+[ホームに戻る](index.md)
