@@ -13,6 +13,7 @@
 - [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
 - [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
+- [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 
 ### 質問
 
@@ -89,7 +90,6 @@
 ## フロントエンド
 
 - [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
-- [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 - [フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた](https://zenn.dev/raru_ex/articles/eb3aa038b38771)
 
 ## UI/UX
