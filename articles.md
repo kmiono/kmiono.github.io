@@ -10,6 +10,8 @@
 - [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
+- [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
+- [初心者プログラマーに伝えたいデバッグの話 #初心者 - Qiita](https://qiita.com/jyori112/items/2cd6e40b5570b90eda45)
 
 ### 質問
 
@@ -26,6 +28,7 @@
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている 5 つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
+- [要領よく仕事ができる人は「ワーキングメモリ」の働かせ方がうまい。コツは 15 分の使い方にあり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/yohei-sugawara-interview302)
 
 ### 議事録
 
@@ -51,6 +54,10 @@
 - [エンジニアのための十徳ナイフ「DevToys」が便利すぎる](https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab)
 - [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
 
+### VSCode
+
+- [Mac＆Windows 完全対応！VS Code での作業効率を爆上げするショートカットまとめ #VSCode - Qiita](https://qiita.com/tajiri_manato/items/d1a52b895b8f670a4dd1)
+
 ## セキュリティ
 
 - [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
@@ -66,6 +73,8 @@
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
 - [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
+- [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)
+- [プログラミングというより物事が出来る思考法～実践編](https://note.com/simplearchitect/n/nbecdf4a687c0)
 
 ### TypeScript
 
@@ -81,12 +90,14 @@
 ### Docker/Kubernetes
 
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
+- [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
 
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 - [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
+- [駆け出しエンジニアの頃に知ってたら超捗ってた linux 系コマンド・テクニックまとめ #初心者 - Qiita](https://qiita.com/keisukee/items/a07743279ae86effe1ca)
 
 ### シェルスクリプト
 
@@ -123,6 +134,7 @@
 
 - [「誰にもできる」より良いコードを書くためのテクニック](https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a)
 - [読みやすいコードのガイドライン（レビューア編） #コードレビュー - Qiita](https://qiita.com/atjjnnn/items/7f76f316a59b75ffe5a9)
+- [【日本人エンジニア必携】英語命名規則の決定版 #Python - Qiita](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0)
 
 ## 動画
 
@@ -143,6 +155,8 @@
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
 - [レベルアップしたい人必見　 Qiita 記事 43 選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
 - [Qiita 殿堂入りのホームページ](https://matt-note.github.io/qden/)
+- [UNIX 系 OS のコマンドラインインターフェイス操作を克服できる学習サイト #初心者 - Qiita](https://qiita.com/v_avenger/items/a8b96852ce8c7d7e1e19)
+- [私が独学をして、マジ神だと思うサイトおよび他 #初心者 - Qiita](https://qiita.com/chi1180/items/d945f5507f546bffa610)
 
 ### 書籍
 
@@ -156,6 +170,7 @@
 - [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [プログラマーがソースコード内に書いた「アスキーアート」図 2000 点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
+- [意外と若い、プログラム言語の誕生日と年齢。 #Python - Qiita](https://qiita.com/Nekonecode/items/841c9dda9ba1a3014635)
 
 ### ヘルスケア
 
