@@ -5,15 +5,11 @@
 ## 現場
 
 - [もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
-- [【外資系うさぎの雑感】その５．あの"パワハラ会議”の議事録を書いてみた](https://note.com/choconejito/n/n74d5da74fba7)
-- [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
-- [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
-- [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
 - [「名前のない仕事」ができる人は強い](https://d.potato4d.me/entry/20231004-unnamed-work/)
 - [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
 - [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
-- [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
+- [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 
 ### 質問
 
@@ -30,30 +26,46 @@
 
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている 5 つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
-- [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
+
+### 議事録
+
+- [【外資系うさぎの雑感】その５．あの"パワハラ会議”の議事録を書いてみた](https://note.com/choconejito/n/n74d5da74fba7)
+
+### エラー
+
+- [エラーが怖い？それなら Syntax Error を「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
+
+### 非エンジニア
+
+- [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
+- [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
 
 ## ツール
 
-- [DevToys が便利だと思ったら一緒に「PowerToys」も使ってみよう！](https://qiita.com/ichii731/items/7db600158a858b12fb9c)
-- [エンジニアのための十徳ナイフ「DevToys」が便利すぎる](https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab)
 - [Slack はただのコミュニケーションツールじゃない、企業の技術を映す鏡だ](https://qiita.com/KizashiTakata/items/d442d4a28d147529f1b6)
 - [プログラミング用フォントの選び方とおすすめ無料フォント](https://pouhon.net/font-programming/4990/)
-- [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
+
+### Windows
+
+- [DevToys が便利だと思ったら一緒に「PowerToys」も使ってみよう！](https://qiita.com/ichii731/items/7db600158a858b12fb9c)
+- [エンジニアのための十徳ナイフ「DevToys」が便利すぎる](https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab)
 - [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
+
+## セキュリティ
+
+- [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
 
 ## プログラミング学習
 
 - [エルデンリングから学んだ、プログラミング学習に必要な７つのこと](https://qiita.com/karamage/items/d0b323ac0143a9f51ebb)
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
-- [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
-- [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
-- [エラーが怖い？それなら Syntax Error を「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
+- [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 
 ### TypeScript
 
@@ -61,6 +73,14 @@
 - [【TypeScript】vscode でコンパイルする流れ](https://zenn.dev/kiriyama/articles/a01a56c53876f2)
 - [サバイバル TypeScript](https://typescriptbook.jp)
 - [TypeScript Deep Dive 日本語版](https://typescript-jp.gitbook.io/deep-dive/)
+
+### React
+
+- [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
+
+### Docker/Kubernetes
+
+- [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 
 ## ターミナル
 
@@ -121,20 +141,30 @@
 - [プログラマが知るべき 97 のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
 - [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
 - [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
-- [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
-- [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
 - [レベルアップしたい人必見　 Qiita 記事 43 選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
 - [Qiita 殿堂入りのホームページ](https://matt-note.github.io/qden/)
+
+### 書籍
+
+- [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
+- [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
+- [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 
 ## その他
 
 - [エンジニアのための刑事事件対策まとめ](https://qiita.com/moroi/items/e9db57db2bcdbc089ca1)
 - [「プログラミング＝英語」という状況は正しくない。多言語でコードを書ける世界が求められている](https://wired.jp/2019/08/04/coding-is-for-everyoneas-long-as-you-speak-english/)
-- [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
-- [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
 - [プログラマーがソースコード内に書いた「アスキーアート」図 2000 点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
-- [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
+
+### ヘルスケア
+
+- [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
+
+### Togetter まとめ
+
+- [ホラー系の作品で文字化けしてる演出、知識が邪魔して「怨霊のくせに IT リテラシー高いな」って思っちゃう](https://togetter.com/li/2239453)
 - [理解力が低い方は「理解しない」のでなく、「理解力の範囲で理解」する → 表面的な理解に留まったり、曲解に疑問を持たずに止まる。 - Togetter](https://togetter.com/li/1870072)
+- [なんで頻繁に使わなさそうなサービスまでアプリにしたがるの → 思った以上に一般人は IT リテラシーが高くない](https://togetter.com/li/2235489)
 
 [ホームに戻る](index.md)
