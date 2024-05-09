@@ -2,6 +2,8 @@
 
 [ホームに戻る](index.md)
 
+書いている人が他人に共有したい記事のまとめになります。
+
 ## 現場
 
 - [もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
@@ -146,6 +148,7 @@
 - [【Z 世代がたった数年で会社を見切る理由】「いても無駄」と「言っても無駄」／キャリア安全性の欠如／生存者バイアスの横行／悪しきマネジメントの継承／コンサルが人気の理由【Momentor 代表 坂井風太】](https://youtu.be/dhe3BeGR-Vo)
 - [日本一わかりやすい TypeScript 入門【基礎編】](https://www.youtube.com/playlist?list=PLX8Rsrpnn3IW0REXnTWQp79mxCvHkIrad)
 - [Next.js 13 入門 - App Router 対応](https://youtu.be/lO-Ulx1rclk?si=IsSNYXndkrXzx0s3)
+- [【質問力 ①】優れている人からいい答えを引き出せば人生が変わる](https://youtu.be/9va0d_cGsfU)
 
 ## アウトプット
 
