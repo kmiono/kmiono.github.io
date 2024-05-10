@@ -31,6 +31,7 @@
 - [一流の技術者ほど｢マルチタスク｣しない納得理由](https://toyokeizai.net/articles/-/713334)
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている 5 つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
 - [要領よく仕事ができる人は「ワーキングメモリ」の働かせ方がうまい。コツは 15 分の使い方にあり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/yohei-sugawara-interview302)
+- [モチベーション 3.0 を刺激するプラクティスを考えよう #初心者 - Qiita](https://qiita.com/kojimadev/items/6a53e9fc6a10b2ea6c9b)
 
 ### 議事録
 
