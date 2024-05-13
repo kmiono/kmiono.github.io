@@ -61,6 +61,10 @@
 
 - [Mac＆Windows 完全対応！VS Code での作業効率を爆上げするショートカットまとめ #VSCode - Qiita](https://qiita.com/tajiri_manato/items/d1a52b895b8f670a4dd1)
 
+### eclipse
+
+- [eclipse 絶対に使ってほしい 超絶おすすめ ショートカットキー (Windows) #Java - Qiita](https://qiita.com/HyunwookPark/items/6d8b14fc83b0eb7f7d50)
+
 ## セキュリティ
 
 - [ソフトウェアはなぜバージョンアップしなければならないのか](https://qiita.com/autotaker1984/items/a3091772dbb0fb91473d)
@@ -82,6 +86,10 @@
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
 
+### SQL
+
+- [SQL 入門ハンズオン「はじめての SQL」 第 2 回資料 〜JOIN 編〜 #初心者 - Qiita](https://qiita.com/doiko/items/26311e669ae46a6cc43d)
+
 ### TypeScript
 
 - [【TypeScript】学習・開発で必ず確認するべきリポジトリ・サイト・書籍 33](https://zenn.dev/nameless_sn/articles/awesome_typescript_info)
@@ -97,6 +105,10 @@
 
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
+
+### タイピング
+
+- [寿司打](https://sushida.net/)
 
 ## ターミナル
 
@@ -178,10 +190,12 @@
 - [Java を中心に偏見ベースでプログラミング言語の関係をまとめた](https://nowokay.hatenablog.com/entry/2023/11/25/180306)
 - [プログラマーがソースコード内に書いた「アスキーアート」図 2000 点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
 - [意外と若い、プログラム言語の誕生日と年齢。 #Python - Qiita](https://qiita.com/Nekonecode/items/841c9dda9ba1a3014635)
+- [musicForProgramming();](https://musicforprogramming.net/sixtynine/)
 
 ### ヘルスケア
 
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
+- [朝にその日の作戦名を決めたら幸せになれた話 #モチベーション - Qiita](https://qiita.com/Sicut_study/items/b003632d26bcdc91acfc)
 
 ### Togetter まとめ
 
