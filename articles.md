@@ -188,6 +188,7 @@
 
 ### 書籍
 
+- [技術書典：技術書オンリーイベント](https://techbookfest.org/)
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
 - [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
 - [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
