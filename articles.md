@@ -158,6 +158,8 @@
 - [「誰にもできる」より良いコードを書くためのテクニック](https://qiita.com/kokubo_bosh_409/items/7c8fab57c04ab08d372a)
 - [読みやすいコードのガイドライン（レビューア編） #コードレビュー - Qiita](https://qiita.com/atjjnnn/items/7f76f316a59b75ffe5a9)
 - [【日本人エンジニア必携】英語命名規則の決定版 #Python - Qiita](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0)
+- [クソコードはエンジニアを貧乏にする｜ミノ駆動](https://note.com/minodriven/n/na18901e23b2a)
+- [「良いコード」を書くエンジニアになりたい駆け出しエンジニアへ｜ akatsuki174](https://note.com/akatsuki174/n/nbffe62c83e03)
 
 ## 動画
 
