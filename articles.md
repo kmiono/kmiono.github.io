@@ -106,6 +106,12 @@
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
 
+### Git
+
+- [GitHub Actions 入門](https://zenn.dev/praha/articles/9e561bdaac1d23)
+- [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
+- [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
+
 ### タイピング
 
 - [寿司打](https://sushida.net/)
@@ -113,8 +119,6 @@
 ## ターミナル
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
-- [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
-- [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
 - [駆け出しエンジニアの頃に知ってたら超捗ってた linux 系コマンド・テクニックまとめ #初心者 - Qiita](https://qiita.com/keisukee/items/a07743279ae86effe1ca)
 
 ### シェルスクリプト
@@ -141,6 +145,7 @@
 
 - [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
 - [フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた](https://zenn.dev/raru_ex/articles/eb3aa038b38771)
+- [令和の HTML / CSS / JavaScript の書き方まとめ](https://zenn.dev/necscat/articles/bc9bba54babaf5)
 
 ## UI/UX
 
@@ -191,6 +196,7 @@
 - [プログラマーがソースコード内に書いた「アスキーアート」図 2000 点以上を収集　使われ方を分析しデータベース化【研究紹介】](https://levtech.jp/media/article/column/detail_422/)
 - [意外と若い、プログラム言語の誕生日と年齢。 #Python - Qiita](https://qiita.com/Nekonecode/items/841c9dda9ba1a3014635)
 - [musicForProgramming();](https://musicforprogramming.net/sixtynine/)
+- [社内 Wiki を改善して、開発体験をより良くする #マネジメント - Qiita](https://qiita.com/mkt_hanada/items/44c20c4db78db9d6c024)
 
 ### ヘルスケア
 
