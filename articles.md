@@ -175,12 +175,16 @@
 ## リンク集
 
 - [プログラマが知るべき 97 のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/)
-- [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
-- [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
 - [レベルアップしたい人必見　 Qiita 記事 43 選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
 - [Qiita 殿堂入りのホームページ](https://matt-note.github.io/qden/)
-- [UNIX 系 OS のコマンドラインインターフェイス操作を克服できる学習サイト #初心者 - Qiita](https://qiita.com/v_avenger/items/a8b96852ce8c7d7e1e19)
 - [私が独学をして、マジ神だと思うサイトおよび他 #初心者 - Qiita](https://qiita.com/chi1180/items/d945f5507f546bffa610)
+
+### 海外メディア
+
+- [【全部無料】ハマると時間が秒で過ぎる英語圏のプログラミング系サイトまとめ【英語学習】](https://qiita.com/keisukee/items/76ce249ed264b8acc5f8)
+- [UNIX 系 OS のコマンドラインインターフェイス操作を克服できる学習サイト #初心者 - Qiita](https://qiita.com/v_avenger/items/a8b96852ce8c7d7e1e19)
+- [エンジニア向け海外の情報収集サイトまとめ #勉強法 - Qiita](https://qiita.com/tadashiro_ninomiya/items/1b9d02d6f946a8441e24)
+- [ゲーム感覚でプログラミング学べるサービス集](https://qiita.com/KNR109/items/41065e31970925964b90)
 
 ### 書籍
 
