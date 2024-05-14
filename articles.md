@@ -13,7 +13,6 @@
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
-- [初心者プログラマーに伝えたいデバッグの話 #初心者 - Qiita](https://qiita.com/jyori112/items/2cd6e40b5570b90eda45)
 
 ### 質問
 
@@ -40,6 +39,12 @@
 ### エラー
 
 - [エラーが怖い？それなら Syntax Error を「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
+- [初心者プログラマーに伝えたいデバッグの話 #初心者 - Qiita](https://qiita.com/jyori112/items/2cd6e40b5570b90eda45)
+
+### ビジネスマナー
+
+- [読みやすいメールを書く 8 つのポイント ｜ビジネスメールの教科書](https://business-mail.jp/mail-writing/10590)
+- [ビジネスチャットのマナー｜ NG 行為や定めておくと便利な社内ルールも紹介 ｜ DiSCUS(ディスカス)](https://www.bluetec.co.jp/discus/column/business-chat-manners/)
 
 ### 非エンジニア
 
