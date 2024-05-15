@@ -43,6 +43,10 @@
 - [エラーが怖い？それなら Syntax Error を「起こす」ことから始めよう](https://qiita.com/RyoSakon001/items/ccf30d2acfe11c0ee824)
 - [初心者プログラマーに伝えたいデバッグの話 #初心者 - Qiita](https://qiita.com/jyori112/items/2cd6e40b5570b90eda45)
 
+### レビュー
+
+- [レビュアー初心者が最初に知っておく、レビューの参加方法](https://zenn.dev/manabu/articles/aa1e5367f6e701)
+
 ### ビジネスマナー
 
 - [読みやすいメールを書く 8 つのポイント ｜ビジネスメールの教科書](https://business-mail.jp/mail-writing/10590)
@@ -156,6 +160,7 @@
 - [フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた](https://zenn.dev/raru_ex/articles/eb3aa038b38771)
 - [令和の HTML / CSS / JavaScript の書き方まとめ](https://zenn.dev/necscat/articles/bc9bba54babaf5)
 - [CSS は日々進化している！知ったら使いたくなる「モダン CSS」機能紹介 ｜ レバテックラボ（レバテック LAB）](https://levtech.jp/media/article/column/detail_429/)
+- [コピペで簡単に実装できる！ Tailwind CSS で実装されたボタンの最新コレクション -Tailwind CSS button collection ｜ コリス](https://coliss.com/articles/build-websites/operation/css/tailwind-css-button-collection.html)
 
 ## UI/UX
 
