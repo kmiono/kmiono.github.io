@@ -13,6 +13,7 @@
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
+- [25 歳の IT エンジニア、泥沼プロジェクトの常駐がおっくうで欠勤する｜日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00317/)
 
 ### 質問
 
