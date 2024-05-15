@@ -31,6 +31,7 @@
 - [どんなに忙しくても「自分の時間」を捻出できる人がしている 5 つのこと](https://www.lifehacker.jp/article/2404-matome-how-do-you-make-time-for-yourself/)
 - [要領よく仕事ができる人は「ワーキングメモリ」の働かせ方がうまい。コツは 15 分の使い方にあり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/yohei-sugawara-interview302)
 - [モチベーション 3.0 を刺激するプラクティスを考えよう #初心者 - Qiita](https://qiita.com/kojimadev/items/6a53e9fc6a10b2ea6c9b)
+- [ADHD タスク管理、鬼の 3 箇条 👹 ～集まれマルチタスク苦手民～ #初心者 - Qiita](https://qiita.com/redwings_a/items/c6a9dbdc1d362d2cd6b8)
 
 ### 議事録
 
@@ -110,6 +111,7 @@
 
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
+- [これを知らないともったいない！Kubernetes 関連の便利ツール 20 選 #kubernetes - Qiita](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
 
 ### Git
 
@@ -151,6 +153,7 @@
 - [Hono + htmx + Cloudflare は新しいスタック](https://zenn.dev/yusukebe/articles/e8ff26c8507799)
 - [フロントエンドのスピードに置いていかれたので、よく聞く技術を調べて分類してみた](https://zenn.dev/raru_ex/articles/eb3aa038b38771)
 - [令和の HTML / CSS / JavaScript の書き方まとめ](https://zenn.dev/necscat/articles/bc9bba54babaf5)
+- [CSS は日々進化している！知ったら使いたくなる「モダン CSS」機能紹介 ｜ レバテックラボ（レバテック LAB）](https://levtech.jp/media/article/column/detail_429/)
 
 ## UI/UX
 
@@ -213,8 +216,12 @@
 ### ヘルスケア
 
 - [一人暮らしフルリモートワーカーのメンタルヘルス対策](https://qiita.com/kskg4/items/137ce13d5b1d8a711477)
-- [朝にその日の作戦名を決めたら幸せになれた話 #モチベーション - Qiita](https://qiita.com/Sicut_study/items/b003632d26bcdc91acfc)
 - [朝ごはんに「パンとコーヒー」を食べている人が知らないリスク　専門家が指摘する健康への効果（クックパッドニュース） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/6168c26b026a92690103183b830dbe2c1b3570ab?page=1)
+
+#### メンタルヘルス
+
+- [朝にその日の作戦名を決めたら幸せになれた話 #モチベーション - Qiita](https://qiita.com/Sicut_study/items/b003632d26bcdc91acfc)
+- [【雑記】少し仕事を休んだ話 #ポエム - Qiita](https://qiita.com/sakuc47/items/4b9cea70f0fea0464ac8)
 - [1 ステップで「マイナス感情」をきりかえるコツは？ ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_how_to_put_your_feelings_behind_and_move_on/)
 
 ### Togetter まとめ
