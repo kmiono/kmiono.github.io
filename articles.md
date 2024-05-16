@@ -4,6 +4,12 @@
 
 書いている人が他人に共有したい記事のまとめになります。
 
+## プラットフォーム
+
+- [Qiita](https://qiita.com/)
+- [Zenn ｜エンジニアのための情報共有コミュニティ](https://zenn.dev/)
+- [Menthas](https://menthas.com/)
+
 ## 現場
 
 - [もし軍曹が携帯電話をいま開発したら](https://qiita.com/nonbiri15/items/6f9d362371bd4b9452d0)
