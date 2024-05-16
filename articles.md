@@ -123,6 +123,7 @@
 - [GitHub Actions 入門](https://zenn.dev/praha/articles/9e561bdaac1d23)
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 - [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
+- [GitHub 初心者は Fork しない方の Pull Request から入門しよう ｜ qnyp blog](https://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
 
 ### タイピング
 
