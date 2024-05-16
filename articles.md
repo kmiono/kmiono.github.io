@@ -140,6 +140,7 @@
 
 - [CLI のゲームでターミナル操作を覚える Terminus](https://tbpgr.hatenablog.com/entry/2017/03/18/043940)
 - [駆け出しエンジニアの頃に知ってたら超捗ってた linux 系コマンド・テクニックまとめ #初心者 - Qiita](https://qiita.com/keisukee/items/a07743279ae86effe1ca)
+- [コマンドラインツールを使う ｜ プログラマが知るべき 97 のこと](https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%84%E3%83%BC%E3%83%AB%E3%82%92%E4%BD%BF%E3%81%86/)
 
 ### シェルスクリプト
 
