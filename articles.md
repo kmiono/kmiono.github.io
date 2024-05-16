@@ -196,6 +196,7 @@
 ## アウトプット
 
 - [アウトプットをしない人々は否定しかできないって話。](https://qiita.com/haihaikazuma/items/16089abf3a75e754b9b4)
+- [成長の為にアウトプットがなぜ必要なのか。mattn 氏が語る持続的なアウトプットのススメ ｜ レバテックラボ（レバテック LAB）](https://levtech.jp/media/article/column/detail_433/)
 
 ## リンク集
 
