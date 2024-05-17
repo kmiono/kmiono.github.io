@@ -95,6 +95,7 @@
 - [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 - [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)
 - [プログラミングというより物事が出来る思考法～実践編](https://note.com/simplearchitect/n/nbecdf4a687c0)
+- [問題駆動型プログラミング学習法 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
 
 ### 初心者向け
 
@@ -123,6 +124,7 @@
 - [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
 - [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
 - [これを知らないともったいない！Kubernetes 関連の便利ツール 20 選 #kubernetes - Qiita](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
+- [Docker コマンドの挙動を図解にして覚えやすくしてみた #Docker - Qiita](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
 
 ### Git
 
@@ -155,6 +157,7 @@
 - [Google、無償で生成 AI を遊びながら学べるゲームを公開](https://forest.watch.impress.co.jp/docs/news/1538529.html)
 - [『Winny』の金子勇さんの失われた ED 法を求めて...いたら見つかりました](https://qiita.com/kanekanekaneko/items/901ee2837401750dfdad)
 - [金子勇さんの ED 法を実装して MNIST を学習させてみた](https://qiita.com/pocokhc/items/f7ab56051bb936740b8f)
+- [GPT‑4o で面白かった・気になった事例まとめ #ChatGPT - Qiita](https://qiita.com/nyanko5656/items/ce8545e568c72b51ae0c)
 
 ## 個人開発
 
