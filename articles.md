@@ -39,6 +39,7 @@
 - [要領よく仕事ができる人は「ワーキングメモリ」の働かせ方がうまい。コツは 15 分の使い方にあり！ - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/yohei-sugawara-interview302)
 - [モチベーション 3.0 を刺激するプラクティスを考えよう #初心者 - Qiita](https://qiita.com/kojimadev/items/6a53e9fc6a10b2ea6c9b)
 - [ADHD タスク管理、鬼の 3 箇条 👹 ～集まれマルチタスク苦手民～ #初心者 - Qiita](https://qiita.com/redwings_a/items/c6a9dbdc1d362d2cd6b8)
+- [Google の生産性専門家が教える「ベストな朝のつくり方」 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-googles-productivity-expert-says-this-is-the-best-way-to-start-your-day/)
 
 ### 議事録
 
@@ -73,6 +74,7 @@
 - [DevToys が便利だと思ったら一緒に「PowerToys」も使ってみよう！](https://qiita.com/ichii731/items/7db600158a858b12fb9c)
 - [エンジニアのための十徳ナイフ「DevToys」が便利すぎる](https://qiita.com/danishi/items/2de6a4ab028d27a8f4ab)
 - [Windows PC を買ったら、まずインストールすべきアプリ 16 選。定番から、知られざる名作まで](https://www.lifehacker.jp/article/2404-the-lesser-known-apps-everyone-should-install-on-a-new/)
+- [Google ドキュメント上級者が使いこなしている「8 つの裏技」 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-advanced-google-docs-features-you-should-be-using/)
 
 ### VSCode
 
@@ -88,14 +90,10 @@
 
 ## プログラミング学習
 
-- [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [なぜ僕は公式ドキュメントを読むのが苦手なのか](https://qiita.com/nakampany/items/91d77f1b87278ed40e81)
-- [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
 - [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
-- [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)
-- [プログラミングというより物事が出来る思考法～実践編](https://note.com/simplearchitect/n/nbecdf4a687c0)
-- [問題駆動型プログラミング学習法 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
+- [【必ず確認するべし】開発・学習で役立つ GitHub リポジトリ 10 選](https://zenn.dev/nameless_sn/articles/important_10_github_repositories)
 
 ### 初心者向け
 
@@ -103,6 +101,15 @@
 - [ロシアの天才ハッカーによる【新人エンジニアサバイバルガイド】](https://qiita.com/jacksuzuki/items/b2fa6b44962e73a53d08)
 - [プログラミング初心者が挫折するまでの道のり](https://qiita.com/ganma_/items/8609e82e5412c28b1e4b)
 - [フルスタックプログラマーの卵どもにおくる、独学チートシート](https://qiita.com/monsoonTropicalBird/items/572e1d02e63cff7a0462)
+- [エンジニアになりたいなって思ったら #初心者 - Qiita](https://qiita.com/onlycatscanwin/items/943497dca6fb58182313)
+
+### 学習法・モチベーション
+
+- [プログラミングというより物事が出来るようになる思考法](https://note.com/simplearchitect/n/n388201603a28)
+- [プログラミングというより物事が出来る思考法～実践編](https://note.com/simplearchitect/n/nbecdf4a687c0)
+- [問題駆動型プログラミング学習法 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
+- [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
+- [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 
 ### SQL
 
@@ -221,6 +228,7 @@
 - [【Web エンジニアど素人から３年生ぐらいになるまでに読むと良い本】を段階的にまとめた](https://qiita.com/JunyaShibato/items/3aa5f7f3fc991de17f3f)
 - [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
 - [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
+- [【毎日書評】どんな相手からも「ここだけの話」を聞き出すとっておきの技術 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_book_to_read-1469/)
 
 ## その他
 
