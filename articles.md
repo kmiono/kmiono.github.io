@@ -94,6 +94,8 @@
 - [自らを強いエンジニアにするための 3 つの習慣](https://speakerdeck.com/shinyorke/i-need-to-be-myself-i-cant-be-no-one-else)
 - [デザイナーが伸び悩まないためのスキル 27 分類](https://speakerdeck.com/inoue_tatsunori/dezainagashen-binao-manaitamefalsesukiru27fen-lei)
 - [【必ず確認するべし】開発・学習で役立つ GitHub リポジトリ 10 選](https://zenn.dev/nameless_sn/articles/important_10_github_repositories)
+- プログラミング言語は複数習得すべき ｜ プログラマが知るべき 97 のこと
+  https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AF%E8%A4%87%E6%95%B0%E7%BF%92%E5%BE%97%E3%81%99%E3%81%B9%E3%81%8D/
 
 ### 初心者向け
 
@@ -110,6 +112,10 @@
 - [問題駆動型プログラミング学習法 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
+
+### オブジェクト指向
+
+- [ドラゴンボールで学ぶオブジェクト指向](https://zenn.dev/roxas_clarity/articles/9ba582eeaa6a59)
 
 ### SQL
 
@@ -193,6 +199,7 @@
 - [【日本人エンジニア必携】英語命名規則の決定版 #Python - Qiita](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0)
 - [クソコードはエンジニアを貧乏にする｜ミノ駆動](https://note.com/minodriven/n/na18901e23b2a)
 - [「良いコード」を書くエンジニアになりたい駆け出しエンジニアへ｜ akatsuki174](https://note.com/akatsuki174/n/nbffe62c83e03)
+-
 
 ## 動画
 
@@ -229,6 +236,7 @@
 - [新人さんにすすめる有益な技術書達 2022 春](https://qiita.com/e99h2121/items/1b243efb1499527f0701)
 - [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 - [【毎日書評】どんな相手からも「ここだけの話」を聞き出すとっておきの技術 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_book_to_read-1469/)
+- [【毎日書評】仕事の幸福度を上げる！幸せに働くために必要な 4 つのアクション ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_book_to_read-1470/)
 
 ## その他
 
@@ -250,6 +258,7 @@
 - [朝にその日の作戦名を決めたら幸せになれた話 #モチベーション - Qiita](https://qiita.com/Sicut_study/items/b003632d26bcdc91acfc)
 - [【雑記】少し仕事を休んだ話 #ポエム - Qiita](https://qiita.com/sakuc47/items/4b9cea70f0fea0464ac8)
 - [1 ステップで「マイナス感情」をきりかえるコツは？ ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_how_to_put_your_feelings_behind_and_move_on/)
+- [「死にたくはないけど、生きたいとも思わない…」。「しんどすぎる虚無感」から抜け出す 3 つの方法とは？ ｜ メンタルダウンで地獄を見た元エリート幹部自衛官が語る　この世を生き抜く最強の技術 ｜ ダイヤモンド・オンライン](https://diamond.jp/articles/-/343436)
 
 ### Togetter まとめ
 
