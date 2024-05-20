@@ -63,6 +63,7 @@
 
 - [非エンジニアから相談を受けたときの心得](https://qiita.com/qunoissue/items/8b07d571ef858608e93d)
 - [非エンジニアがエンジニアと仕事をする際に大切なこと](https://qiita.com/Kensuke_Shibata/items/613fbe58fd615cec6ea5)
+- [非エンジニアがエンジニアとスムーズに話すために大切な「なんとなくわかる」 #初心者 - Qiita](https://qiita.com/danwatanabe/items/b3bcb0755c57ae6849aa)
 
 ## ツール
 
