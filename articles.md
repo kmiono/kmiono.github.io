@@ -8,6 +8,7 @@
 
 - [Qiita](https://qiita.com/)
 - [Zenn ｜エンジニアのための情報共有コミュニティ](https://zenn.dev/)
+- [zenncast - 技術トレンドを AI がラジオに変換](https://zenncast-web.vercel.app/)
 - [Menthas](https://menthas.com/)
 
 ## 現場
@@ -20,6 +21,7 @@
 - [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
 - [25 歳の IT エンジニア、泥沼プロジェクトの常駐がおっくうで欠勤する｜日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00317/)
 - [「報告が苦手、抜け漏れが多い…」そんな人に教えたい 4 つのテクニック ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-matome-reporting/)
+- [社会インフラを支える IT エンジニア。業務が特殊過ぎて「つぶしが利かないのでは？」と不安です：仕事が「つまんない」ままでいいの？（113）（1/3 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2405/22/news006.html)
 
 ### 質問
 
@@ -255,6 +257,7 @@
 - [意外と若い、プログラム言語の誕生日と年齢。 #Python - Qiita](https://qiita.com/Nekonecode/items/841c9dda9ba1a3014635)
 - [musicForProgramming();](https://musicforprogramming.net/sixtynine/)
 - [社内 Wiki を改善して、開発体験をより良くする #マネジメント - Qiita](https://qiita.com/mkt_hanada/items/44c20c4db78db9d6c024)
+- [問題を解決できる人は ○○ を見ている。「視座が高い人」2 つの特徴 - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/viewpoint-business)
 
 ### ヘルスケア
 
