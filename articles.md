@@ -17,7 +17,6 @@
 - [【実話】スキル不足でフリーランスエンジニアになった末路](https://ripurun.com/media/engineer/freelance-lack-of-skills/)
 - [【雑感】やはり速さ‥‥!!速さは全てを解決する‥‥!!って話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n8eff9bb1cb13)
 - [若手エンジニアを不幸にしないための開発の「べからず」集 #C++ - Qiita](https://qiita.com/nonbiri15/items/80e75fbdc358d9144215)
-- [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
 - [25 歳の IT エンジニア、泥沼プロジェクトの常駐がおっくうで欠勤する｜日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00317/)
 - [「報告が苦手、抜け漏れが多い…」そんな人に教えたい 4 つのテクニック ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-matome-reporting/)
@@ -27,6 +26,11 @@
 - [【雑感】質問力というか"伝える力"が一番大事なのでは？というお話｜外資系うさぎのちょこさん](https://note.com/choconejito/n/n49c8aa8afdbf)
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 - [【アウトプット】質問力を上げるために、半沢直樹さんに質問 ①（質問力はなぜ鍛えた方がいいのか）｜ Will@営業を科学する](https://note.com/willyamada/n/na9b80304d63f)
+
+### 言語化
+
+- [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
+- [【ミノ駆動流】「思うように伝わらない」を解消する！エンジニアのための言語化力の鍛え方 - エンジニア type ｜ 転職 type](https://type.jp/et/feature/25970/)
 
 ### マネジメント
 
@@ -41,6 +45,7 @@
 - [モチベーション 3.0 を刺激するプラクティスを考えよう #初心者 - Qiita](https://qiita.com/kojimadev/items/6a53e9fc6a10b2ea6c9b)
 - [ADHD タスク管理、鬼の 3 箇条 👹 ～集まれマルチタスク苦手民～ #初心者 - Qiita](https://qiita.com/redwings_a/items/c6a9dbdc1d362d2cd6b8)
 - [Google の生産性専門家が教える「ベストな朝のつくり方」 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-googles-productivity-expert-says-this-is-the-best-way-to-start-your-day/)
+- [自分の仕事が終わらない人が実践すべき時間管理 ｜ 漫画 ｜ 東洋経済オンライン](https://toyokeizai.net/articles/comic/749262)
 
 ### 議事録
 
@@ -98,6 +103,7 @@
 - [【必ず確認するべし】開発・学習で役立つ GitHub リポジトリ 10 選](https://zenn.dev/nameless_sn/articles/important_10_github_repositories)
 - プログラミング言語は複数習得すべき ｜ プログラマが知るべき 97 のこと
   https://xn--97-273ae6a4irb6e2hsoiozc2g4b8082p.com/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AF%E8%A4%87%E6%95%B0%E7%BF%92%E5%BE%97%E3%81%99%E3%81%B9%E3%81%8D/
+- [算数が得意な子は「九九の覚え方」から違いすぎた　東大生が教える「数字のセンス」を高める覚え方（東洋経済オンライン） - Yahoo!ニュース](https://news.yahoo.co.jp/articles/bb3af0c791c878665730100d9ba10e01d91b38d1?page=3)
 
 ### 初心者向け
 
@@ -147,6 +153,7 @@
 - [『GitUI』を使ってターミナルからでも直感的な Git 操作を](https://note.com/navitime_tech/n/nb21cefe223d8)
 - [中級 Git 操作](https://zenn.dev/eloy/articles/4017913277f629)
 - [GitHub 初心者は Fork しない方の Pull Request から入門しよう ｜ qnyp blog](https://blog.qnyp.com/2013/05/28/pull-request-for-github-beginners/)
+- [Git 不慣れ勢を束ねて安全なチーム開発をするメモ #Git - Qiita](https://qiita.com/dnote/items/6b1f53aeaae8cb5ca67b)
 
 ### タイピング
 
@@ -201,7 +208,6 @@
 - [【日本人エンジニア必携】英語命名規則の決定版 #Python - Qiita](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0)
 - [クソコードはエンジニアを貧乏にする｜ミノ駆動](https://note.com/minodriven/n/na18901e23b2a)
 - [「良いコード」を書くエンジニアになりたい駆け出しエンジニアへ｜ akatsuki174](https://note.com/akatsuki174/n/nbffe62c83e03)
--
 
 ## 動画
 
