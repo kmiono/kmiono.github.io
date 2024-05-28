@@ -20,6 +20,7 @@
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [成果を出すプログラマーが習得している「コードを書かない技術」 #ポエム - Qiita](https://qiita.com/Fumi_Oc7/items/74f2791a4b6c832f9555)
 - [25 歳の IT エンジニア、泥沼プロジェクトの常駐がおっくうで欠勤する｜日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/00084/00317/)
+- [エンジニアとしてフルリモートワークで8年生き残る技術 #リモートワーク - Qiita](https://qiita.com/ihatov08/items/8b57a0dc306f45a560db)
 
 ### 質問
 
