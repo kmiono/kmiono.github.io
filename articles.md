@@ -197,6 +197,7 @@
 - [令和の HTML / CSS / JavaScript の書き方まとめ](https://zenn.dev/necscat/articles/bc9bba54babaf5)
 - [CSS は日々進化している！知ったら使いたくなる「モダン CSS」機能紹介 ｜ レバテックラボ（レバテック LAB）](https://levtech.jp/media/article/column/detail_429/)
 - [コピペで簡単に実装できる！ Tailwind CSS で実装されたボタンの最新コレクション -Tailwind CSS button collection ｜ コリス](https://coliss.com/articles/build-websites/operation/css/tailwind-css-button-collection.html)
+- [Web 制作者はダウンロードしておきたい！ CSS 関連の最新版チートシートのまとめ ｜ コリス](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
 
 ## UI/UX
 
@@ -211,6 +212,7 @@
 - [【日本人エンジニア必携】英語命名規則の決定版 #Python - Qiita](https://qiita.com/hironori_narita/items/4b06db0953053d41c4a0)
 - [クソコードはエンジニアを貧乏にする｜ミノ駆動](https://note.com/minodriven/n/na18901e23b2a)
 - [「良いコード」を書くエンジニアになりたい駆け出しエンジニアへ｜ akatsuki174](https://note.com/akatsuki174/n/nbffe62c83e03)
+- [『美しいコード』を言語化してみる #ポエム - Qiita](https://qiita.com/ogix/items/1a568cdfc4232998a706)
 
 ## 動画
 
