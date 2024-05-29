@@ -23,6 +23,7 @@
 - [「報告が苦手、抜け漏れが多い…」そんな人に教えたい 4 つのテクニック ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-matome-reporting/)
 - [社会インフラを支える IT エンジニア。業務が特殊過ぎて「つぶしが利かないのでは？」と不安です：仕事が「つまんない」ままでいいの？（113）（1/3 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2405/22/news006.html)
 - [バグ報告が来た時にデキるエンジニアの動き方](https://zenn.dev/mixi/articles/d5a558a0b0870d)
+- [エンジニアとしてフルリモートワークで8年生き残る技術 #リモートワーク - Qiita](https://qiita.com/ihatov08/items/8b57a0dc306f45a560db)
 
 ### 質問
 
