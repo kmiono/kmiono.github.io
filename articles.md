@@ -34,6 +34,8 @@
 
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
 - [【ミノ駆動流】「思うように伝わらない」を解消する！エンジニアのための言語化力の鍛え方 - エンジニア type ｜ 転職 type](https://type.jp/et/feature/25970/)
+- [日本人の生産性の低さの根本にある「1 人で悩む時間」の長さ　海外の一流に学ぶ、成果を出しつつ幸せに働く方法 - ログミー Biz](https://logmi.jp/business/articles/330570)
+- [言語化できる人が生き残る #アウトプット - Qiita](https://qiita.com/Sicut_study/items/80f5459f8ee7d765b042)
 
 ### マネジメント
 
@@ -124,6 +126,7 @@
 - [問題駆動型プログラミング学習法 #新人プログラマ応援 - Qiita](https://qiita.com/Sicut_study/items/79838a4b8ec36bc3a961)
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
+- [独学を継続できる人の 3 つの習慣。ひとりで勉強しても挫折しないコツは ○○ だった - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/tips-for-self-study)
 
 ### オブジェクト指向
 
@@ -228,6 +231,7 @@
 
 - [アウトプットをしない人々は否定しかできないって話。](https://qiita.com/haihaikazuma/items/16089abf3a75e754b9b4)
 - [成長の為にアウトプットがなぜ必要なのか。mattn 氏が語る持続的なアウトプットのススメ ｜ レバテックラボ（レバテック LAB）](https://levtech.jp/media/article/column/detail_433/)
+- [評価されるエンジニアの特徴とは #エンジニア - Qiita](https://qiita.com/onlycatscanwin/items/c128c22df88a873b58c3)
 
 ## リンク集
 
@@ -235,6 +239,7 @@
 - [レベルアップしたい人必見　 Qiita 記事 43 選](https://qiita.com/tadashiro_ninomiya/items/ac994dfa0094c9e58f7d)
 - [Qiita 殿堂入りのホームページ](https://matt-note.github.io/qden/)
 - [私が独学をして、マジ神だと思うサイトおよび他 #初心者 - Qiita](https://qiita.com/chi1180/items/d945f5507f546bffa610)
+- [【2024 年度】エンジニア向け研修資料まとめ #エンジニア - Qiita](https://qiita.com/nucomiya/items/29965f1915436f2cfc79)
 
 ### 海外メディア
 
