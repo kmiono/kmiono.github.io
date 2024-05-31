@@ -23,7 +23,7 @@
 - [「報告が苦手、抜け漏れが多い…」そんな人に教えたい 4 つのテクニック ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405-matome-reporting/)
 - [社会インフラを支える IT エンジニア。業務が特殊過ぎて「つぶしが利かないのでは？」と不安です：仕事が「つまんない」ままでいいの？（113）（1/3 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2405/22/news006.html)
 - [バグ報告が来た時にデキるエンジニアの動き方](https://zenn.dev/mixi/articles/d5a558a0b0870d)
-- [エンジニアとしてフルリモートワークで8年生き残る技術 #リモートワーク - Qiita](https://qiita.com/ihatov08/items/8b57a0dc306f45a560db)
+- [エンジニアとしてフルリモートワークで 8 年生き残る技術 #リモートワーク - Qiita](https://qiita.com/ihatov08/items/8b57a0dc306f45a560db)
 
 ### 質問
 
@@ -257,6 +257,7 @@
 - [【毎日書評】「営業がしんどい人」から、「売れる営業」へ変わる習慣](https://www.lifehacker.jp/article/2404_book_to_read-1459/)
 - [【毎日書評】どんな相手からも「ここだけの話」を聞き出すとっておきの技術 ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_book_to_read-1469/)
 - [【毎日書評】仕事の幸福度を上げる！幸せに働くために必要な 4 つのアクション ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_book_to_read-1470/)
+- [著名 IT エンジニアに聞く「キャリアに影響を与えた本は何ですか？」 - Findy Engineer Lab](https://findy-code.io/engineer-lab/influential-books-4)
 
 ## その他
 
