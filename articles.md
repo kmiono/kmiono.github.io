@@ -32,6 +32,10 @@
 - [よわよわエンジニア流・質問のススメ](https://qiita.com/kamikawa_m/items/11637639837e94e45d5e)
 - [【アウトプット】質問力を上げるために、半沢直樹さんに質問 ①（質問力はなぜ鍛えた方がいいのか）｜ Will@営業を科学する](https://note.com/willyamada/n/na9b80304d63f)
 
+#### 質問されたとき
+
+- [「あいつはひとりでも大丈夫」と会議を任される新人。会議中のふるまいが秀逸だった。 #ポエム - Qiita](https://qiita.com/haihaikazuma/items/c7692e7578ecd9875177)
+
 ### 言語化
 
 - [【ポエム】コミュ力低いプログラマがサラリーマンで生きていくために工夫すべきと思うこと #ポエム - Qiita](https://qiita.com/ota-meshi/items/ce19054f552f681f72ec)
@@ -39,6 +43,7 @@
 - [日本人の生産性の低さの根本にある「1 人で悩む時間」の長さ　海外の一流に学ぶ、成果を出しつつ幸せに働く方法 - ログミー Biz](https://logmi.jp/business/articles/330570)
 - [言語化できる人が生き残る #アウトプット - Qiita](https://qiita.com/Sicut_study/items/80f5459f8ee7d765b042)
 - [なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」 #キャリア - Qiita](https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf)
+- [「進捗どうですか？」が怖くなくなる思考法 - 「作業ログ」から「未来の地図」へ](https://zenn.dev/coconala/articles/progress-report-refactoring)
 
 ### マネジメント
 
@@ -150,13 +155,6 @@
 
 - [【永久保存版】0 から React を勉強するならこのロードマップに従え！](https://qiita.com/Sicut_study/items/78910cd8d103b8d45a73)
 
-### Docker/Kubernetes
-
-- [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
-- [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
-- [これを知らないともったいない！Kubernetes 関連の便利ツール 20 選 #kubernetes - Qiita](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
-- [Docker コマンドの挙動を図解にして覚えやすくしてみた #Docker - Qiita](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
-
 ### Git
 
 - [GitHub Actions 入門](https://zenn.dev/praha/articles/9e561bdaac1d23)
@@ -190,10 +188,16 @@
 - [『Winny』の金子勇さんの失われた ED 法を求めて...いたら見つかりました](https://qiita.com/kanekanekaneko/items/901ee2837401750dfdad)
 - [金子勇さんの ED 法を実装して MNIST を学習させてみた](https://qiita.com/pocokhc/items/f7ab56051bb936740b8f)
 - [GPT‑4o で面白かった・気になった事例まとめ #ChatGPT - Qiita](https://qiita.com/nyanko5656/items/ce8545e568c72b51ae0c)
+- [副詞まみれの言葉がAIを狂わせる -ハルシネーション誘発の構造-｜Viorazu. – Foundational Persona of Resonant LLMs](https://note.com/viorazu/n/n85589e1d2eb5?external_type=smart_news&external_position=original_link&rt=external&sub_rt=smart_news)
+
+### AI駆動開発
+
+- [AI駆動開発組織の運営を1年ほど取り組んで得た学び9選 #ChatGPT - Qiita](https://qiita.com/kumai_yu/items/f3a72c7bae1754657c62)
+- [AIを普段ガンガン利用する僕がAIを利用したプログラミング学習方法を考案してみた #ChatGPT - Qiita](https://qiita.com/kumai_yu/items/f3308bae8f8081e317c1)
+- [Claudeと歩むAI仕様駆動開発の開発手法](https://zenn.dev/yukketbetai/articles/e263bd18784a78)
 
 ## 個人開発
 
-- [もっと気軽にアウトプットできる技術ブログサービス「Qrunch（クランチ）」をリリースした【個人開発】](https://qiita.com/terubooon/items/95a561d163d26bbfe274)
 - [個人開発が続かない理由は「時間」「戦略」「気力」「孤独」 4 つの“つらみ”を解消するアジャイル開発・スクラム開発のエッセンス](https://logmi.jp/tech/articles/329327)
 - [小さなゲーム開発についての小さな電子冊子を作ったよ](https://aba.hatenablog.com/entry/2023/09/25/202653)
 
@@ -206,11 +210,24 @@
 - [コピペで簡単に実装できる！ Tailwind CSS で実装されたボタンの最新コレクション -Tailwind CSS button collection ｜ コリス](https://coliss.com/articles/build-websites/operation/css/tailwind-css-button-collection.html)
 - [Web 制作者はダウンロードしておきたい！ CSS 関連の最新版チートシートのまとめ ｜ コリス](https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
 
-## UI/UX
+### UI/UX
 
 - [「UI の良さ」ってのはユーザビリティだけじゃないんだよ〜UNDERTALE の UI](https://note.com/uxakachan/n/n912fb2a9cce1)
 - [ユーザー目線に配慮した入力フォームのデザインを考える〜より良いフォームにするために](https://note.com/chot_designer/n/nd064bced65c8)
 - [CSS 数式アニメーションで初速も考慮できる表現力の高いイージングを書く](https://katashin.info/posts/css-math-animation/)
+
+## インフラ
+
+### Docker/Kubernetes
+
+- [Docker Desktop を使って学ぶ Kubernetes の基本的な仕組み](https://numb86-tech.hatenablog.com/entry/2023/09/19/211324)
+- [コンテナって何？（Kubernetes 入門） - Speaker Deck](https://speakerdeck.com/minorun365/kontenatutehe-kubernetesru-men)
+- [これを知らないともったいない！Kubernetes 関連の便利ツール 20 選 #kubernetes - Qiita](https://qiita.com/suin/items/3c4df13ad3478ffe7b5d)
+- [Docker コマンドの挙動を図解にして覚えやすくしてみた #Docker - Qiita](https://qiita.com/Tanachu8/items/5e85c75818e499042bfe)
+
+### AWS
+- [【AWS初心者向け】AWS学習方法まとめ【15時間で達成できる】 #Cloud - Qiita](https://qiita.com/toma_shohei/items/b7a001d26bd988d52021)
+- [【ゼロからわかる】AWS学習の進め方](https://zenn.dev/gachigachi/articles/0cdd8322c1c906)
 
 ## リファクタリング
 
@@ -283,6 +300,7 @@
 - [【雑記】少し仕事を休んだ話 #ポエム - Qiita](https://qiita.com/sakuc47/items/4b9cea70f0fea0464ac8)
 - [1 ステップで「マイナス感情」をきりかえるコツは？ ｜ ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2405_how_to_put_your_feelings_behind_and_move_on/)
 - [「死にたくはないけど、生きたいとも思わない…」。「しんどすぎる虚無感」から抜け出す 3 つの方法とは？ ｜ メンタルダウンで地獄を見た元エリート幹部自衛官が語る　この世を生き抜く最強の技術 ｜ ダイヤモンド・オンライン](https://diamond.jp/articles/-/343436)
+- [エンジニア4年生が思う、エンジニアを苦しめるかもしれないマインド、考え方 #初心者 - Qiita](https://qiita.com/Matsui_engineer/items/d74f5a1bcb54b7d2de90)
 
 ### Togetter まとめ
 
