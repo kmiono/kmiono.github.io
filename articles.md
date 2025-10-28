@@ -24,6 +24,7 @@
 - [社会インフラを支える IT エンジニア。業務が特殊過ぎて「つぶしが利かないのでは？」と不安です：仕事が「つまんない」ままでいいの？（113）（1/3 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2405/22/news006.html)
 - [バグ報告が来た時にデキるエンジニアの動き方](https://zenn.dev/mixi/articles/d5a558a0b0870d)
 - [エンジニアとしてフルリモートワークで 8 年生き残る技術 #リモートワーク - Qiita](https://qiita.com/ihatov08/items/8b57a0dc306f45a560db)
+- [SESからメガベンチャーに転職して学んだことまとめ #初心者 - Qiita](https://qiita.com/Toshi-Shumi/items/e71ee26d16f0b288981c)
 
 ### 質問
 
@@ -37,6 +38,7 @@
 - [【ミノ駆動流】「思うように伝わらない」を解消する！エンジニアのための言語化力の鍛え方 - エンジニア type ｜ 転職 type](https://type.jp/et/feature/25970/)
 - [日本人の生産性の低さの根本にある「1 人で悩む時間」の長さ　海外の一流に学ぶ、成果を出しつつ幸せに働く方法 - ログミー Biz](https://logmi.jp/business/articles/330570)
 - [言語化できる人が生き残る #アウトプット - Qiita](https://qiita.com/Sicut_study/items/80f5459f8ee7d765b042)
+- [なぜ働いていると本が読めなくなるのか — エンジニアが失っている「考える力」と「語彙力」 #キャリア - Qiita](https://qiita.com/nakaizumi_slj/items/f9f59a2db8fcd6a3d7cf)
 
 ### マネジメント
 
