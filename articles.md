@@ -135,6 +135,7 @@
 - [勉強が辛い時は手段であり目的ではないと考えてみる](https://qiita.com/Sicut_study/items/7e96fc6d69028c355e2a)
 - [プログラミングのやる気がでないとき机に向かうべきか](https://qiita.com/Sicut_study/items/27b767a59c9972627550)
 - [独学を継続できる人の 3 つの習慣。ひとりで勉強しても挫折しないコツは ○○ だった - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習](https://studyhacker.net/tips-for-self-study)
+- [NotebookLM × Geminiを使った効率的キャッチアップ術](https://qiita.com/TJ_droid/items/8784bc851d0abdf91472)
 
 ### オブジェクト指向
 
